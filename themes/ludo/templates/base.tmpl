@@ -1,0 +1,75 @@
+{#  -*- coding: utf-8 -*- #}
+{% import 'base_helper.tmpl' as base with context %}
+{% import 'base_header.tmpl' as header with context %}
+{% import 'base_footer.tmpl' as footer with context %}
+{{ set_locale(lang) }}
+{#  <html> tag is included by base.html_headstart #}
+{{ base.html_headstart() }}
+{% block extra_head %}
+{#  Leave this block alone. #}
+{% endblock %}
+{{ template_hooks['extra_head']() }}
+</head>
+<body>
+    <a href="#content" class="sr-only sr-only-focusable">{{ messages("Skip to main content") }}</a>
+      <div class="hero_area">
+
+    <div class="main slick_main">
+      <div class="slider slider-for main_img-container">
+        <div class="main-img-box b1">
+
+        </div>
+        <div class="main-img-box b2">
+
+        </div>
+        <div class="main-img-box b3">
+
+        </div>
+      </div>
+    </div>
+        {{ header.html_header() }}
+          <section class=" slider_section position-relative">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-4">
+            <div class="brand_box">
+              <a href="">
+                <img src="/assets/images/ludo-logo.png" alt="" />
+              </a>
+            </div>
+          </div>
+          <div class="col-md-8 px-0">
+            <div class="slider_content">
+                                  <main id="content">
+            {% block content %}{% endblock %}
+        </main>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- end slider section -->
+  </div>
+       
+        {{ footer.html_footer() }}
+    </div>
+    {{ base.late_load_js() }}
+    {% if date_fanciness != 0 %}
+    <!-- fancy dates -->
+    <script>
+    luxon.Settings.defaultLocale = "{{ luxon_locales[lang] }}";
+    fancydates({{ date_fanciness }}, {{ luxon_date_format }});
+    </script>
+    <!-- end fancy dates -->
+    {% endif %}
+    {% block extra_js %}{% endblock %}
+    <script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
+    </script>
+    {{ body_end }}
+    {{ template_hooks['body_end']() }}
+</body>
+</html>
