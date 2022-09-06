@@ -683,7 +683,10 @@ REDIRECTIONS = []
 
 DEPLOY_COMMANDS = {
     'default': [
-        "rsync -zauvhP -e 'ssh -p 19792' --checksum --delete output/ tanja@ludo.events:/srv/www/ludo.events/public_html",
+        "rsync -zauvhP -e 'ssh -p 50042' --checksum --delete output/ chuck@ludo.events:/srv/www/ludo.events/public_html",
+    ],
+        'tanja': [
+        "rsync -zauvhP -e 'ssh -p 50042' --checksum --delete output/ tanja@ludo.events:/srv/www/ludo.events/public_html",
     ]
 }
 
