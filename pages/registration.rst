@@ -11,4 +11,22 @@ Health rules: It is currently impossible to know in advance what any health rule
 
 Organizers: Chuck Smith (RG Geek), Tanja Orme
 
-Link to invite friends: tinyurl.com/Ludo22
+Link to invite friends: https://tinyurl.com/Ludo22
+
+
+Schedule
+~~~~~~~~
+
+Welcome to the station: we got fun and games! Schedule subject to change.
+
+FRIDAY: arrive when you want and start gaming. In the Esperanto-Stacio, where we will be staying overnight, you will not only be able to play, but we'll offer frozen pizzas with drinks and beer.
+
+SATURDAY: lunch at an American diner near the Esperanto-Stacio (Peggy's Diner), cross-generational Mario Kart tournament (Wii, GameCube, Nintendo 64, Super Nintendo), open gaming
+
+SUNDAY: open gaming, lunch at a German restaurant across the street (Goldener Stern)
+
+MONDAY: open gaming, lunch at a Greek restaurant on the lake (Kalimera am See)
+
+Contact Chuck Smith (chuck@chuck.at) with any questions you might have.
+
+

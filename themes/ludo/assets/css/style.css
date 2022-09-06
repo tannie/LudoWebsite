@@ -50,7 +50,7 @@ body {
 
 /*header section*/
 .hero_area {
-  height: 100vh;
+  height: 100%;
   position: relative;
   background-image: url(../images/bg-gamecube.jpg);
   background-size: cover;
@@ -65,6 +65,37 @@ body {
           flex-direction: column;
   -webkit-box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+@media (min-width: 576px) {
+  .YouTube_iframe {
+    width: 320px;
+    height: 180px;
+  }
+}
+
+@media (min-width: 768px) {
+  .YouTube_iframe {
+    width: 460px;
+        height: 270px;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .YouTube_iframe {
+    width: 620px;
+            height: 360px;
+
+  }
+}
+
+@media (min-width: 1200px) {
+  .YouTube_iframe {
+    width: 740px;
+                height: 440px;
+
+  }
 }
 
 .hero_area .slick_main {
@@ -113,6 +144,7 @@ body {
 
 .header_section {
   padding: 10px 0;
+  margin-left:15px;
 }
 
 .header_section .container-fluid {
