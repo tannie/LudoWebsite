@@ -24,7 +24,7 @@ SITE_URL = "https://ludo.events/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://ludo.events/"
-BLOG_EMAIL = "tanjaorme@gmail.com"
+BLOG_EMAIL = ""
 BLOG_DESCRIPTION = "Let's play!"  # (translatable)
 
 # Nikola is multilingual!

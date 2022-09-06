@@ -6,39 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://ludo.events/categories/blog.xml</loc>
-  <lastmod>2022-09-05T22:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/categories/cat_nikola.xml</loc>
-  <lastmod>2022-09-05T22:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/categories/demo.xml</loc>
-  <lastmod>2022-09-05T22:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/categories/nikola.xml</loc>
-  <lastmod>2022-09-05T22:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/categories/python.xml</loc>
-  <lastmod>2022-09-05T22:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/galleries/demo/rss.xml</loc>
-  <lastmod>2022-09-06T07:49:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://ludo.events/galleries/rss.xml</loc>
-  <lastmod>2022-09-06T07:49:00Z</lastmod>
+  <lastmod>2022-09-06T08:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ludo.events/rss.xml</loc>
-  <lastmod>2022-09-05T22:56:00Z</lastmod>
+  <lastmod>2022-09-06T08:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ludo.events/sitemap.xml</loc>
-  <lastmod>2022-09-06T07:49:00Z</lastmod>
+  <lastmod>2022-09-06T08:33:00Z</lastmod>
  </sitemap>
 </sitemapindex>
