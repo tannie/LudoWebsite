@@ -4,9 +4,8 @@
     " vocab="http://ogp.me/ns" lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="description" content="__pycache__">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>__pycache__ | Ludo 2022</title>
+<title>Past Events | Ludo 2022</title>
 <link href="../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
 <link href="../../assets/css/rst_base.css" rel="stylesheet" type="text/css">
 <link href="../../assets/css/nikola_rst.css" rel="stylesheet" type="text/css">
@@ -21,8 +20,17 @@
 <!-- responsive style --><link href="../../assets/css/responsive.css" rel="stylesheet">
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="../../rss.xml">
-<link rel="canonical" href="https://ludo.events/listings/__pycache__/">
-<!--[if lt IE 9]><script src="../../assets/js/html5shiv-printshiv.min.js"></script><![endif]-->
+<link rel="canonical" href="https://ludo.events/galleries/Past%20Events/">
+<!--[if lt IE 9]><script src="../../assets/js/html5shiv-printshiv.min.js"></script><![endif]--><link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
+<style type="text/css">
+    #gallery_container {
+        position: relative;
+    }
+    .image-block {
+        position: absolute;
+    }
+</style>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
 </head>
 <body>
     <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -77,9 +85,12 @@
           <div class="col-md-8 px-0">
             <div class="slider_content">
                                   <main id="content"><nav class="breadcrumbs"><ul class="breadcrumb">
-<li><a href="../">listings</a></li>
-                <li><a href=".">__pycache__</a></li>
-</ul></nav></main>
+<li><a href="../">galleries</a></li>
+                <li>Past Events</li>
+</ul></nav><h1>Past Events</h1>
+
+<div id="gallery_container"></div>
+        </main>
 </div>
 
           </div>
@@ -131,7 +142,12 @@
 
       ]
     });
-  </script><script src="../../assets/js/baguetteBox.min.js"></script><script>
+  </script><script src="../../assets/js/baguetteBox.min.js"></script><script src="../../assets/js/justified-layout.min.js"></script><script src="../../assets/js/gallery.min.js"></script><script>
+var jsonContent = [];
+var thumbnailSize = 180;
+renderGallery(jsonContent, thumbnailSize);
+window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnailSize)});
+</script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
         captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});

@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://ludo.events/</loc>
-  <lastmod>2022-09-06T08:33:00Z</lastmod>
+  <lastmod>2022-09-06T21:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/archive.html</loc>
-  <lastmod>2022-09-06T08:33:00Z</lastmod>
+  <lastmod>2022-09-07T11:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/assets/</loc>
@@ -31,30 +31,38 @@
  </url>
  <url>
   <loc>https://ludo.events/categories/</loc>
-  <lastmod>2022-09-06T08:33:00Z</lastmod>
+  <lastmod>2022-09-06T21:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/galleries/</loc>
-  <lastmod>2022-09-06T08:33:00Z</lastmod>
+  <lastmod>2022-09-06T21:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ludo.events/galleries/Consoles/</loc>
+  <lastmod>2022-09-06T21:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ludo.events/galleries/Past%20Events/</loc>
+  <lastmod>2022-09-06T21:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/listings/</loc>
-  <lastmod>2022-09-06T08:33:00Z</lastmod>
+  <lastmod>2022-09-06T21:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/listings/__pycache__/</loc>
-  <lastmod>2022-09-06T08:33:00Z</lastmod>
+  <lastmod>2022-09-06T21:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/listings/hello.py.html</loc>
-  <lastmod>2022-09-06T08:33:00Z</lastmod>
+  <lastmod>2022-09-07T11:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/posts/</loc>
-  <lastmod>2022-09-06T08:33:00Z</lastmod>
+  <lastmod>2022-09-06T21:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/registration/</loc>
-  <lastmod>2022-09-06T08:33:00Z</lastmod>
+  <lastmod>2022-09-06T21:24:00Z</lastmod>
  </url>
 </urlset>
