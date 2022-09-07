@@ -147,6 +147,8 @@ NAVIGATION_LINKS = {
             ("/", "Home"),
 
         ("/registration", "Registration"),
+        
+        ("/directions", "Directions"),
     ),
 }
 

@@ -1,4 +1,4 @@
-.. title: Ludo (14-16 Oct 2022)
+.. title: Ludo 2022
 .. slug: index
 .. date: 2012-03-30 23:00:00 UTC-03:00
 .. tags: 
