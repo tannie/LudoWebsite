@@ -99,13 +99,13 @@ DEFAULT_LANG = "en"
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
 # the path will be used as a prefix for the generated pages location
-#TRANSLATIONS = {
-#   DEFAULT_LANG: "",
+TRANSLATIONS = {
+   DEFAULT_LANG: "",
 #    "eo": "./eo",
-#
-#    # Example for another language:
-#    # "es": "./es",
-#}
+
+    # Example for another language:
+    "de": "./de",
+}
 
 # What will translated input files be named like?
 
@@ -144,11 +144,26 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-            ("/", "Home"),
-
+        ("/", "Home"),
+#         ("/news", "News"),
         ("/registration", "Registration"),
-        
         ("/directions", "Directions"),
+        ("/contact-form", "Contact"),
+
+    ),
+#        "eo": (
+#        ("/eo/", "Hejme"),
+##         ("/eo/news", "News"),
+#        ("/eo/registration", "Registration"),
+#        ("/eo/directions", "Directions"),
+#        ("/eo/contact-form", "Contact"),
+#    ),
+            "de": (
+        ("/de/", "Home"),
+#         ("/de/news", "News"),
+        ("/de/registration", "Registration"),
+        ("/de/directions", "Directions"),
+        ("/de/contact-form", "Impressum"),
     ),
 }
 
@@ -243,10 +258,10 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
+    ("posts/*.rst", {"en": "news", "de": "neu"}, "post.tmpl"),
+    ("posts/*.md", "news", "post.tmpl"),
+    ("posts/*.txt", "news", "post.tmpl"),
+    ("posts/*.html", "news", "post.tmpl"),
 )
 PAGES = (
     ("pages/*.rst", "", "page.tmpl"),
@@ -270,12 +285,12 @@ TIMEZONE = "Europe/Berlin"
 # If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
 # (especially in new_post), set this to True.
 # Note that this does not affect DATE_FORMAT.
-# FORCE_ISO8601 = False
+FORCE_ISO8601 = True
 
 # Date format used to display post dates. (translatable)
 # Used by babel.dates, CLDR style: http://cldr.unicode.org/translation/date-time-1/date-time
 # You can also use 'full', 'long', 'medium', or 'short'
-# DATE_FORMAT = 'yyyy-MM-dd HH:mm'
+DATE_FORMAT = 'yyyy-MM-dd HH:mm'
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # Used by Luxon: https://moment.github.io/luxon/docs/manual/formatting
@@ -356,17 +371,17 @@ COMPILERS = {
 # Use date-based path when creating posts?
 # Can be enabled on a per-post basis with `nikola new_post -d`.
 # The setting is ignored when creating pages.
-# NEW_POST_DATE_PATH = False
+NEW_POST_DATE_PATH = True
 
 # What format to use when creating posts with date paths?
-# Default is '%Y/%m/%d', other possibilities include '%Y' or '%Y/%m'.
-# NEW_POST_DATE_PATH_FORMAT = '%Y/%m/%d'
+# Default is '%Y/%m/%d', other possibilities include '%Y' or '%Y/%m'. 
+NEW_POST_DATE_PATH_FORMAT = '%Y/%m/%d'
 
 # If this is set to True, the DEFAULT_LANG version will be displayed for
 # untranslated posts.
 # If this is set to False, then posts that are not translated to a language
 # LANG will not be visible at all in the pages in that language.
-# SHOW_UNTRANSLATED_POSTS = True
+SHOW_UNTRANSLATED_POSTS = True	
 
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
@@ -587,7 +602,7 @@ HIDDEN_AUTHORS = ['Guest']
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # (translatable)
-INDEX_PATH = "posts"
+INDEX_PATH = "news"
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
@@ -618,13 +633,13 @@ FRONT_INDEX_HEADER = {
 # If ARCHIVES_ARE_INDEXES is set to True, each archive page which contains a list
 # of posts will contain the posts themselves. If set to False, it will be just a
 # list of links.
-# ARCHIVES_ARE_INDEXES = False
+ARCHIVES_ARE_INDEXES = True
 
 # URLs to other posts/pages can take 3 forms:
 # rel_path: a relative URL to the current page/post (default)
 # full_path: a URL with the full path from the root
 # absolute: a complete URL (that includes the SITE_URL)
-# URL_TYPE = 'rel_path'
+#URL_TYPE = 'absolute'
 
 # Extension for RSS feed files
 # RSS_EXTENSION = ".xml"
@@ -685,10 +700,11 @@ REDIRECTIONS = []
 
 DEPLOY_COMMANDS = {
     'default': [
-        "rsync -zauvhP -e 'ssh -p 50042' --checksum --delete output/ chuck@ludo.events:/srv/www/ludo.events/public_html",
+            "nikola build",
+        'rsync -zauvhP -e "ssh -p 50042 -i $HOME/.ssh/id_rsa_webserver" --checksum --delete output/ ludo@ludo.events:/srv/www/ludo.events/public_html/',
     ],
         'tanja': [
-        "rsync -zauvhP -e 'ssh -p 50042' --checksum --delete output/ tanja@ludo.events:/srv/www/ludo.events/public_html",
+        "rsync -zauvhP -e 'ssh -p 50042' --checksum --delete output/ tanja@ludo.events:/srv/www/ludo.events/public_html/",
     ]
 }
 
@@ -924,7 +940,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # Note that in case INDEXES_PAGES_MAIN is set to True, a redirection will be created
 # for the full URL with the page number of the main page to the normal (shorter) main
 # page URL.
-# INDEXES_PRETTY_PAGE_URL = False
+INDEXES_PRETTY_PAGE_URL = True
 #
 # If the following is true, a page range navigation will be inserted to indices.
 # Please note that this will undo the effect of INDEXES_STATIC, as all index pages
@@ -1188,7 +1204,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # SHOW_SOURCELINK = True
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
-# COPY_SOURCES = True
+COPY_SOURCES = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10

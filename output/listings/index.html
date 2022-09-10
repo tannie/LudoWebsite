@@ -20,7 +20,8 @@
 <!-- Custom styles for this template --><link href="../assets/css/style.css" rel="stylesheet">
 <!-- responsive style --><link href="../assets/css/responsive.css" rel="stylesheet">
 <meta name="generator" content="Nikola (getnikola.com)">
-<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="../rss.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS (en)" hreflang="en" href="../rss.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS (de)" hreflang="de" href="../de/rss.xml">
 <link rel="canonical" href="https://ludo.events/listings/">
 <!--[if lt IE 9]><script src="../assets/js/html5shiv-printshiv.min.js"></script><![endif]-->
 </head>
@@ -42,16 +43,13 @@
       </div>
     </div>
          <header class="header_section"><div class="container-fluid">
-        <nav class="navbar navbar-expand-lg custom_nav-container "><button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <nav class="navbar navbar-expand-lg custom_nav-container "><div id="navbarSupportedContent">
             <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
             <nav id="menu"><ul>
-<li><a href="../">Home</a></li>
-                <li><a href="../registration">Registration</a></li>
-                <li><a href="../directions">Directions</a></li>
+<li class="iets"><a href="../">Home</a></li>
+                <li class="iets"><a href="../registration">Registration</a></li>
+                <li class="iets"><a href="../directions">Directions</a></li>
+                <li class="iets"><a href="../contact-form">Contact</a></li>
 
     
     
@@ -66,7 +64,15 @@
         <span id="blog-title">Ludo 2022</span>
     </a></h1>
 
-        
+                <div id="toptranslations">
+            <h2>Languages:</h2>
+                <ul class="translations">
+<li class="lang2"><a href="../de/listings/" rel="alternate" hreflang="de">Deutsch</a></li>
+
+
+    </ul>
+</div>
+
     </header><section class=" slider_section position-relative"><div class="container-fluid">
         <div class="row">
           <div class="col-md-4">
@@ -79,14 +85,9 @@
             <div class="slider_content">
                                   <main id="content"><nav class="breadcrumbs"><ul class="breadcrumb">
 <li><a href=".">listings</a></li>
-</ul></nav><ul>
-<li>
-<a href="__pycache__" class="listing-folder">__pycache__</a>
-    </li>
-<li>
-<a href="hello.py.html" class="listing-file">hello.py</a>
-</li>
-</ul></main>
+</ul></nav><ul><li>
+<a href=".DS_Store.html" class="listing-file">.DS_Store</a>
+</li></ul></main>
 </div>
 
           </div>
@@ -139,7 +140,7 @@
       ]
     });
   </script><script src="../assets/js/baguetteBox.min.js"></script><script>
-    baguetteBox.run('div#content', {
+    baguetteBox.run('main#content', {
         ignoreClass: 'islink',
         captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>

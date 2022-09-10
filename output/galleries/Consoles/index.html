@@ -19,7 +19,8 @@
 <!-- Custom styles for this template --><link href="../../assets/css/style.css" rel="stylesheet">
 <!-- responsive style --><link href="../../assets/css/responsive.css" rel="stylesheet">
 <meta name="generator" content="Nikola (getnikola.com)">
-<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="../../rss.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS (en)" hreflang="en" href="../../rss.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS (de)" hreflang="de" href="../../de/rss.xml">
 <link rel="canonical" href="https://ludo.events/galleries/Consoles/">
 <!--[if lt IE 9]><script src="../../assets/js/html5shiv-printshiv.min.js"></script><![endif]--><link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
 <style type="text/css">
@@ -30,6 +31,7 @@
         position: absolute;
     }
 </style>
+<link rel="alternate" hreflang="de" href="../../de/galleries/Consoles/">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
 </head>
 <body>
@@ -50,15 +52,13 @@
       </div>
     </div>
          <header class="header_section"><div class="container-fluid">
-        <nav class="navbar navbar-expand-lg custom_nav-container "><button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <nav class="navbar navbar-expand-lg custom_nav-container "><div id="navbarSupportedContent">
             <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
             <nav id="menu"><ul>
-<li><a href="../../">Home</a></li>
-                <li><a href="../../registration">Registration</a></li>
+<li class="iets"><a href="../../">Home</a></li>
+                <li class="iets"><a href="../../registration">Registration</a></li>
+                <li class="iets"><a href="../../directions">Directions</a></li>
+                <li class="iets"><a href="../../contact-form">Contact</a></li>
 
     
     
@@ -73,7 +73,15 @@
         <span id="blog-title">Ludo 2022</span>
     </a></h1>
 
-        
+                <div id="toptranslations">
+            <h2>Languages:</h2>
+                <ul class="translations">
+<li class="lang2"><a href="../../de/galleries/Consoles/" rel="alternate" hreflang="de">Deutsch</a></li>
+
+
+    </ul>
+</div>
+
     </header><section class=" slider_section position-relative"><div class="container-fluid">
         <div class="row">
           <div class="col-md-4">
@@ -90,6 +98,12 @@
 </ul></nav><h1>Consoles</h1>
 
 <div id="gallery_container"></div>
+<noscript>
+<ul class="thumbnails"><li>
+<a href="IMG_9512.jpeg" class="thumbnail image-reference" title="Img 9512">
+            <img src="IMG_9512.thumbnail.jpeg" alt="Img 9512" loading="lazy"></a>
+</li></ul>
+</noscript>
         </main>
 </div>
 
@@ -143,12 +157,12 @@
       ]
     });
   </script><script src="../../assets/js/baguetteBox.min.js"></script><script src="../../assets/js/justified-layout.min.js"></script><script src="../../assets/js/gallery.min.js"></script><script>
-var jsonContent = [];
+var jsonContent = [{"height": 135, "size": {"h": 135, "w": 180}, "title": "Img 9512", "url": "IMG_9512.jpeg", "url_thumb": "IMG_9512.thumbnail.jpeg", "width": 180}];
 var thumbnailSize = 180;
 renderGallery(jsonContent, thumbnailSize);
 window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnailSize)});
 </script><script>
-    baguetteBox.run('div#content', {
+    baguetteBox.run('main#content', {
         ignoreClass: 'islink',
         captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>

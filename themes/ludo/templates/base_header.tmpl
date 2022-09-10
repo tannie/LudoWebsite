@@ -6,11 +6,9 @@
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
 
-          <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
+ 
 
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <div id="navbarSupportedContent">
             <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
         {{ html_navigation_links() }}
 
@@ -55,11 +53,11 @@
 {% macro html_navigation_links_entries(navigation_links_source) %}
     {% for url, text in navigation_links_source[lang] %}
         {% if isinstance(url, tuple) %}
-            <li> {{ text }}
+            <li class=""> {{ text }}
             <ul>
             {% for suburl, text in url %}
                 {% if rel_link(permalink, suburl) == "#" %}
-                    <li class="active"><a href="{{ permalink }}">{{ text }}<span class="sr-only"> {{ messages("(active)", lang) }}</span></a></li>
+                    <li class="active"><a href="{{ _link("root", None, langname) }}{{ permalink }}">{{ text }}<span class="sr-only"> {{ messages("(active)", lang) }}</span></a></li>
                 {% else %}
                     <li><a href="{{ suburl }}">{{ text }}</a></li>
                 {% endif %}
@@ -67,9 +65,9 @@
             </ul>
         {% else %}
             {% if rel_link(permalink, url) == "#" %}
-                <li class="active"><a href="{{ permalink }}">{{ text }}<span class="sr-only"> {{ messages("(active)", lang) }}</span></a></li>
+                <li class="active"><a href="{{ _link("root", None, langname) }}{{ permalink }}">{{ text }}<span class="sr-only"> {{ messages("(active)", lang) }}</span></a></li>
             {% else %}
-                <li><a href="{{ url }}">{{ text }}</a></li>
+                <li class="iets"><a href="{{ _link("root", None, langname) }}{{ url }}">{{ text }}</a></li>
             {% endif %}
         {% endif %}
     {% endfor %}

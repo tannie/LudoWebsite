@@ -1,3 +1,7 @@
+/* @override 
+	http://127.0.0.1:8000/assets/css/theme.css
+	http://127.0.0.1:8000/assets/css/theme.css?* */
+
 @charset "UTF-8";
 
 /*
@@ -97,9 +101,16 @@ html[dir="rtl"] #toptranslations {
 	display: none;
 }
 
+.center {
+	align-content: center;
+	text-align: center;
+	margin: auto;
+}
+
 .postindex article {
-	border-bottom: 1px solid #4F5151;
+/*	border-bottom: 1px solid #4F5151;*/
 	padding-bottom: 1em;
+	
 }
 #header {
 	border-bottom: 1px solid #4F5151;
@@ -107,7 +118,9 @@ html[dir="rtl"] #toptranslations {
 #footer {
 	border-top: 1px solid #4F5151;
 }
-
+.navbar {
+	float: right;
+}
 /* Tags */
 .postpromonav {
 	border-bottom: 1px solid #4F5151;
@@ -235,7 +248,10 @@ img {
 	border: none;
 	line-height: 1;
 }
-
+.divider img {
+	
+	width: 80px !important;
+}
 .postpage img,
 .postpage object,
 .postindex article img,
@@ -316,7 +332,9 @@ pre.code, code {
 #logo {
 	min-height: 25px;
 }
-
+#navbarSupportedContent {
+	text-align: right;
+}
 /* SOURCE: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
 	*,

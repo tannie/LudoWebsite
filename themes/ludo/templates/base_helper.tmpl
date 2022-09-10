@@ -137,9 +137,21 @@ lang="{{ lang }}">
 {% macro html_translations() %}
     <ul class="translations">
     {% for langname in translations|sort %}
-        {% if langname != lang %}
-            <li><a href="{{ _link("root", None, langname) }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a></li>
+            {% if lang == "en" %}
+                        {% if langname != "en" %}
+<li class="lang2"><a href="/{{ langname + permalink|replace(lang+"/","") }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a></li>
         {% endif %}
+                {% else %}
+                                        {% if langname == "en" %}
+            <li class="lang3"><a href="/{{ permalink|replace("/"+lang+"/","") }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a></li>
+                            {% else %}
+
+        {% if langname != lang %}
+            <li class="lang4"><a href="/{{ langname + permalink|replace(lang+"/","") }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a></li>
+        {% endif %}
+                {% endif %}
+                {% endif %}
+
     {% endfor %}
     </ul>
 {% endmacro %}

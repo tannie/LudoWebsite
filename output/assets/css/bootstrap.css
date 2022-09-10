@@ -3011,9 +3011,6 @@ input[type="button"].btn-block {
   opacity: 0;
 }
 
-.collapse:not(.show) {
-  display: none;
-}
 
 .collapsing {
   position: relative;
@@ -4147,7 +4144,6 @@ input[type="button"].btn-block {
 .navbar {
   position: relative;
   display: -ms-flexbox;
-  display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   -ms-flex-align: center;
@@ -4155,13 +4151,14 @@ input[type="button"].btn-block {
   -ms-flex-pack: justify;
   justify-content: space-between;
   padding: 0.5rem 1rem;
+  float: right;
 }
 
 .navbar > .container,
 .navbar > .container-fluid {
   display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
+float: right;
+-ms-flex-wrap: wrap;
   flex-wrap: wrap;
   -ms-flex-align: center;
   align-items: center;
