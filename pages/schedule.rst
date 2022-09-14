@@ -21,9 +21,9 @@ Cross-Gen Mario Kart Tournament
 
 "It's a me, Mario!" We'd like to invite you to join us for a Cross-Gen Mario Kart tournament!
 
-GameCube Qualifying Rounds: Contestants will play 4-player races of Mario Kart Wii and Mario Kart: Double Dash (GameCube)
+GameCube Qualifying Rounds: Contestants will play 4-player races of Mario Kart: Double Dash (GameCube)
 
-Mario Kart 64 Semi Finals: The top 4 players from the Wii and Double Dash races will compete in a Mario Kart 64 (Nintendo 64) Grand Prix w/ the top 2 players advancing to the Finals.
+Mario Kart 64 Semi Finals: The top 4 players from the Double Dash races will compete in a Mario Kart 64 (Nintendo 64) Grand Prix w/ the top 2 players advancing to the Finals.
 
 Super Mario Kart Finals: The top 2 players will play a Grand Prix of Super Mario Kart on Super Nintendo to determine the tournament winner!
 
