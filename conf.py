@@ -104,7 +104,7 @@ TRANSLATIONS = {
 #    "eo": "./eo",
 
     # Example for another language:
-    "de": "./de",
+#    "de": "./de",
 }
 
 # What will translated input files be named like?
@@ -146,9 +146,10 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
 #         ("/news", "News"),
+        ("/schedule", "Schedule"),
         ("/registration", "Registration"),
-        ("/directions", "Directions"),
-        ("/contact-form", "Contact"),
+        ("/directions", "Location + Directions"),
+        ("/contact-form", "Contact/Impressum"),
 
     ),
 #        "eo": (
@@ -158,13 +159,13 @@ NAVIGATION_LINKS = {
 #        ("/eo/directions", "Directions"),
 #        ("/eo/contact-form", "Contact"),
 #    ),
-            "de": (
-        ("/de/", "Home"),
-#         ("/de/news", "News"),
-        ("/de/registration", "Registration"),
-        ("/de/directions", "Directions"),
-        ("/de/contact-form", "Impressum"),
-    ),
+#            "de": (
+#        ("/de/", "Home"),
+##         ("/de/news", "News"),
+#        ("/de/registration", "Registration"),
+#        ("/de/directions", "Directions"),
+#        ("/de/contact-form", "Impressum"),
+#    ),
 }
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
@@ -394,7 +395,7 @@ SHOW_UNTRANSLATED_POSTS = True
 # This option lets you use an image to be used if the post doesn't have it.
 # The default is None, valid values are URLs or output paths like
 # "/images/foo.jpg"
-# DEFAULT_PREVIEW_IMAGE = None
+DEFAULT_PREVIEW_IMAGE = "/assets/images/ludo2.jpeg"
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.

@@ -57,7 +57,7 @@
             <ul>
             {% for suburl, text in url %}
                 {% if rel_link(permalink, suburl) == "#" %}
-                    <li class="active"><a href="{{ _link("root", None, langname) }}{{ permalink }}">{{ text }}<span class="sr-only"> {{ messages("(active)", lang) }}</span></a></li>
+                    <li class="active"><a href="{{ permalink }}">{{ text }}<span class="sr-only"> {{ messages("(active)", lang) }}</span></a></li>
                 {% else %}
                     <li><a href="{{ suburl }}">{{ text }}</a></li>
                 {% endif %}

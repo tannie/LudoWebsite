@@ -7,20 +7,19 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://ludo.events/</loc>
-  <lastmod>2022-09-09T11:56:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="de" href="https://ludo.events/de/" />
+  <lastmod>2022-09-12T13:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/2022/</loc>
-  <lastmod>2022-09-09T10:18:00Z</lastmod>
+  <lastmod>2022-09-12T09:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/archive.html</loc>
-  <lastmod>2022-09-10T09:52:00Z</lastmod>
+  <lastmod>2022-09-12T16:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/assets/</loc>
-  <lastmod>2022-09-09T10:18:00Z</lastmod>
+  <lastmod>2022-09-12T09:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/assets/about.html</loc>
@@ -36,11 +35,11 @@
  </url>
  <url>
   <loc>https://ludo.events/categories/</loc>
-  <lastmod>2022-09-09T10:18:00Z</lastmod>
+  <lastmod>2022-09-12T09:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/contact-form/</loc>
-  <lastmod>2022-09-09T10:18:00Z</lastmod>
+  <lastmod>2022-09-12T09:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/de/</loc>
@@ -52,7 +51,7 @@
  </url>
  <url>
   <loc>https://ludo.events/de/archive.html</loc>
-  <lastmod>2022-09-10T09:52:00Z</lastmod>
+  <lastmod>2022-09-10T11:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/de/categories/</loc>
@@ -81,12 +80,10 @@
  <url>
   <loc>https://ludo.events/de/neu/2022/09/08/another-new-post/</loc>
   <lastmod>2022-09-09T11:56:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://ludo.events/news/2022/09/08/another-new-post/" />
  </url>
  <url>
   <loc>https://ludo.events/de/neu/2022/09/09/hai/</loc>
   <lastmod>2022-09-09T11:56:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://ludo.events/news/2022/09/09/hai/" />
  </url>
  <url>
   <loc>https://ludo.events/de/news/</loc>
@@ -98,7 +95,7 @@
  </url>
  <url>
   <loc>https://ludo.events/directions/</loc>
-  <lastmod>2022-09-09T10:18:00Z</lastmod>
+  <lastmod>2022-09-12T09:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/eo/</loc>
@@ -210,35 +207,42 @@
  </url>
  <url>
   <loc>https://ludo.events/galleries/</loc>
-  <lastmod>2022-09-09T10:18:00Z</lastmod>
+  <lastmod>2022-09-12T09:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/galleries/Consoles/</loc>
-  <lastmod>2022-09-09T10:18:00Z</lastmod>
+  <lastmod>2022-09-12T09:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/galleries/Past_Events/</loc>
-  <lastmod>2022-09-09T10:18:00Z</lastmod>
+  <lastmod>2022-09-12T09:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/listings/</loc>
-  <lastmod>2022-09-09T10:18:00Z</lastmod>
+  <lastmod>2022-09-12T09:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ludo.events/location/</loc>
+  <lastmod>2022-09-12T13:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/news/</loc>
-  <lastmod>2022-09-09T10:18:00Z</lastmod>
+  <lastmod>2022-09-12T09:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/news/2022/09/08/another-new-post/</loc>
-  <lastmod>2022-09-09T10:18:00Z</lastmod>
+  <lastmod>2022-09-12T09:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/news/2022/09/09/hai/</loc>
-  <lastmod>2022-09-09T10:18:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="de" href="https://ludo.events/de/neu/2022/09/09/hai/" />
+  <lastmod>2022-09-12T09:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/registration/</loc>
-  <lastmod>2022-09-09T10:18:00Z</lastmod>
+  <lastmod>2022-09-12T09:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ludo.events/schedule/</loc>
+  <lastmod>2022-09-12T13:32:00Z</lastmod>
  </url>
 </urlset>

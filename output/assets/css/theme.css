@@ -409,6 +409,7 @@ pre.code, code {
 	h2,
 	h3 {
 		page-break-after: avoid;
+		font-size: medium;
 	}
 
 	.hidden-print {
@@ -436,4 +437,10 @@ pre.code, code {
 	.postpromonav {
 		padding: 0;
 	}
+}
+
+.post-thumbnail {
+	width: 350px !important;
+	max-height: 350px;
+	padding: 15px;
 }
