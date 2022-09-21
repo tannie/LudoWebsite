@@ -7,6 +7,8 @@
 
 Ludo's game library features hits from many generations of video games from retro Pong, Super Nintendo and GameCube all the way up to modern Meta Quest 2 VR and Xbox Series S.
 
+.. contents::
+
 Meta Quest 2 (2020)
 ===================
 
