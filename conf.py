@@ -149,6 +149,7 @@ NAVIGATION_LINKS = {
         ("/schedule", "Schedule"),
         ("/registration", "Registration"),
         ("/directions", "Location + Directions"),
+        ("/games", "Games"),
         ("/contact-form", "Contact/Impressum"),
 
     ),
