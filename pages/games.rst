@@ -9,6 +9,11 @@ Ludo's game library features hits from many generations of video games from retr
 
 .. contents::
 
+Metal Dance Mats
+================
+
+* Project Outfox (fork of Stepmania) - modern Dance Dance Revolution clone
+
 Meta Quest 2 (2020)
 ===================
 
@@ -89,11 +94,6 @@ Play our 150+ game library on almost every screen we have, experience cloud gami
 * Trials Rising - physics-based 2D motorcycle racing
 * Trine 4 - puzzle platformer
 * Worms W.M.D. - cute strategic battle game
-
-Metal Dance Mats
-================
-
-* Project Outfox (fork of Stepmania) - modern Dance Dance Revolution clone
 
 Nintendo GameCube (2001)
 ========================

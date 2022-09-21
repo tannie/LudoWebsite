@@ -1,3 +1,6 @@
+/* @override 
+	http://127.0.0.1:8000/assets/css/bootstrap.css */
+
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
@@ -375,15 +378,15 @@ h2, .h2 {
 }
 
 h3, .h3 {
-  font-size: 1.65rem;
+  font-size: 1.35rem;
 }
 
 h4, .h4 {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
 }
 
 h5, .h5 {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 h6, .h6 {
