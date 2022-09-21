@@ -5,10 +5,24 @@
 .. link: 
 .. description: 
 
-Ludo's game library features hits from many generations of video games from retro Pong, Super Nintendo and GameCube all the way up to modern Meta Quest 2 and Xbox Series S.
+Ludo's game library features hits from many generations of video games from retro Pong, Super Nintendo and GameCube all the way up to modern Meta Quest 2 VR and Xbox Series S.
 
-Xbox Series S (2020)
-====================
+Quest 2 (2020)
+==============
+
+Play on 2 VR headsets at Ludo
+
+* Beat Saber
+* Dash Dash World
+* Eleven Table Tennis (with table tennis grips!)
+* Hand Physics Lab
+* Keep Talking and Nobody Explodes
+* Walkabout Minigolf
+
+Microsoft Xbox Series S (2020)
+==============================
+
+Play on 100" screen via 4K projector
 
 4 Player
 --------
@@ -28,7 +42,7 @@ Xbox Series S (2020)
 * Rocket League
 * Slipstream
 * SpiderHeck [GPU]
-* Teenage Mutant Ninja Turtles: Shredder’s Revenge [GPU]
+* Teenage Mutant Ninja Turtles: Shredder’s Revenge [GPU] (6 Player)
 * Teenage Mutant Ninja Turtles: Cowabunga Collection
 * Tetris Effect
 * Trials Fusion
@@ -49,18 +63,10 @@ Xbox Series S (2020)
 
 *[GPU] = Game Pass Ultimate (could disappear from the library anytime)*
 
-Quest 2 (2020)
-==============
+Google Stadia (2019)
+====================
 
-* Beat Saber
-* Dash Dash World
-* Eleven Table Tennis (with table tennis grips!)
-* Hand Physics Lab
-* Keep Talking and Nobody Explodes
-* Walkabout Minigolf
-
-Stadia (2019) [150+ games]
-==========================
+Play our 150+ game library on almost every screen we have, experience cloud gaming in 4K
 
 4 Player
 --------
@@ -87,20 +93,21 @@ Metal Dance Mats
 
 * Project Outfox (fork of Stepmania) - modern Dance Dance Revolution clone
 
-GameCube (2001)
-===============
+Nintendo GameCube (2001)
+========================
 
-* Donkey Konga (w/ 4 sets of bongos)
+* Donkey Konga (4 sets of bongos)
+* Mario Kart: Double Dash
 
 Super Nintendo (1991)
 =====================
 
-[Playable on 29” Sony Trinitron CRT w/ original North American SNES]
+Playable on 29” Sony Trinitron CRT w/ original North American SNES
 
 * Aladdin
 * Donkey Kong Country
 * Madden NFL 97
-* NBA Jam: Tournament Edition [4P w/ Multitap]
+* NBA Jam: Tournament Edition (4 Player)
 * NHL 95
 * Street Fighter II: The World Warrior
 * Stunt Race FX
@@ -111,13 +118,13 @@ Super Nintendo (1991)
 * Super Tennis
 * Tecmo Super Bowl
 * Top Gear
-* Top Gear 3000 [4P w/ Multitap]
+* Top Gear 3000 (4 Player)
 * Zoop
 
 GameBoy (1989)
 ==============
 
-[Playable via Super GameBoy on SNES]
+Playable via Super GameBoy on SNES
 
 * Bad 'N Rad
 * Baseball
@@ -144,7 +151,7 @@ GameBoy (1989)
 Atari 2600 (1977)
 =================
 
-[Playable via Atari Plug n Play on CRT]
+Playable via Atari Plug n Play on CRT
 
 2 Player (Simultaneous)
 -----------------------
