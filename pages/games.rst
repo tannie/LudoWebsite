@@ -7,8 +7,8 @@
 
 Ludo's game library features hits from many generations of video games from retro Pong, Super Nintendo and GameCube all the way up to modern Meta Quest 2 VR and Xbox Series S.
 
-Quest 2 (2020)
-==============
+Meta Quest 2 (2020)
+===================
 
 Play on 2 VR headsets at Ludo
 
@@ -19,8 +19,8 @@ Play on 2 VR headsets at Ludo
 * Keep Talking and Nobody Explodes
 * Walkabout Minigolf
 
-Microsoft Xbox Series S (2020)
-==============================
+Xbox Series S (2020)
+====================
 
 Play on 100" screen via 4K projector
 
