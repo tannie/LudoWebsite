@@ -98,7 +98,11 @@ Play our 150+ game library on almost every screen we have, experience cloud gami
 Nintendo GameCube (2001)
 ========================
 
+4 Player
+--------
+
 * Donkey Konga (4 sets of bongos)
+* F-Zero GX
 * Mario Kart: Double Dash
 
 Super Nintendo (1991)
