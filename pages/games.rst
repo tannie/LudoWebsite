@@ -132,21 +132,32 @@ Super Nintendo (1991)
 
 Playable on 29” Sony Trinitron CRT w/ original North American SNES
 
-* Aladdin
-* Donkey Kong Country
+4 Player
+--------
+
+* NBA Jam: Tournament Edition
+* Top Gear 3000
+
+2 Player
+--------
+
 * Madden NFL 97
-* NBA Jam: Tournament Edition (4 Player)
 * NHL 95
 * Street Fighter II: The World Warrior
 * Stunt Race FX
-* Super Adventure Island
 * Super Mario All-Stars
 * Super Mario Kart
 * Super Mario World
 * Super Tennis
 * Tecmo Super Bowl
 * Top Gear
-* Top Gear 3000 (4 Player)
+
+1 Player
+--------
+
+* Aladdin
+* Donkey Kong Country
+* Super Adventure Island
 * Zoop
 
 GameBoy (1989)
