@@ -36,6 +36,7 @@ Play on 100" screen via 4K projector
 
 * As Dusk Falls [GPU]
 * Death Squared
+* Dirt 5 [GPU]
 * Gang Beasts [GPU]
 * Goat Simulator [GPU]
 * Golf With Friends [GPU]
@@ -73,26 +74,19 @@ Play on 100" screen via 4K projector
 Google Stadia (2019)
 ====================
 
-Play our 150+ game library on almost every screen we have, experience cloud gaming in 4K
+Play our game library on almost every screen we have, experience cloud gaming
 
 4 Player
 --------
 
-* Avicii Invector - music game like Rock Band
 * Cake Bash - like Mario Party
-* Dirt 5 - arcade-style dirt racing
-* Gunsport - futuristic volleyball-like
 * Golf With Your Friends - minigolf
-* It Came From Space and Ate Our Brains - twin stick shooter
 * Killer Queen Black - 8-player platforming Joust-like battle 
 * Just Shapes & Beats - move to the beat, avoid obstacles
 * Monopoly - financial board game
 * Monopoly Madness - crazy party game based on Monopoly
-* Overcooked: All You Can Eat
 * PGA Tour 2K21 - great golf simulation
-* Tri6: Infinite - futuristic racing
 * Trials Rising - physics-based 2D motorcycle racing
-* Trine 4 - puzzle platformer
 * Worms W.M.D. - cute strategic battle game
 
 Nintendo GameCube (2001)
