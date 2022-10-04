@@ -35,18 +35,22 @@ Play on 100" screen via 4K projector
 --------
 
 * As Dusk Falls [GPU]
+* Avicii Invector: Encore Edition
+* Cake Bash
 * Death Squared
 * Dirt 5 [GPU]
 * Gang Beasts [GPU]
 * Goat Simulator [GPU]
 * Golf With Friends [GPU]
 * Horizon Chase Turbo
+* Hotshot Racing
 * Moving Out
 * Multiversus
 * NHL 22 [GPU]
 * NHL 94 Rewind [GPU]
 * Overcooked 2 [GPU]
 * Pac-Man Museum+ [GPU]
+* Puyo Puyo Tetris 2
 * Rocket League
 * Slipstream
 * SpiderHeck [GPU]
@@ -88,6 +92,11 @@ Play our game library on almost every screen we have, experience cloud gaming
 * PGA Tour 2K21 - great golf simulation
 * Trials Rising - physics-based 2D motorcycle racing
 * Worms W.M.D. - cute strategic battle game
+
+Nintendo Switch (2017)
+======================
+
+
 
 Nintendo GameCube (2001)
 ========================
