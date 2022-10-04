@@ -36,6 +36,7 @@ Play on 100" screen via 4K projector
 
 * As Dusk Falls [GPU]
 * Avicii Invector: Encore Edition
+* Brawlhalla
 * Cake Bash
 * Death Squared
 * Dirt 5 [GPU]
