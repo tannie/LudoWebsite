@@ -9,12 +9,36 @@
 
 Welcome to the station: we got fun and games! Schedule subject to change.
 
-**FRIDAY:** arrive when you want and start gaming. In the Esperanto-Stacio, where we will be staying overnight, you will not only be able to play, but we'll offer frozen pizzas with drinks and beer.
+Feel free to show up earlier on Friday, but be aware we may not have everything ready to play before 18:00.
 
-**SATURDAY:** lunch at an American diner near the Esperanto-Stacio (Peggy's Diner), cross-generational Mario Kart tournament (GameCube, Nintendo 64, Super Nintendo), open gaming
+===== ===========
+FRIDAY:
+-----------------
+18:00 Ludo begins
+19:00 Frozen pizza or Halbe Pizza
+23:30 End of Open Gaming for Day Participants
+===== ===========
 
-**SUNDAY:** open gaming, lunch at a German restaurant across the street (Goldener Stern) or lunch at a Greek restaurant on the lake (Kalimera am See)
+=========== =====================
+SATURDAY:
+---------------------------------
+8:00-10:00  Continental Breakfast
+13:00-      Lunch at Peggy's Diner (near the Esperanto-Stacio)
+15:30-      Cross-Gen MarioKart tournament (GameCube, N64, SNES)
+18:00-20:00 Continental Dinner
+23:30       End of Open Gaming for Day Participants
+=========== =====================
 
+=========== =====================
+SUNDAY:
+---------------------------------
+8:00-10:00  Continental Breakfast
+13:00-      Lunch at Goldener Stern (German restaurant across the street)
+18:00-20:00 Continental Dinner
+23:30       End of Open Gaming for Day Participants
+=========== =====================
+
+The Sat/Sun dinner is the same as breakfast… rolls, bread, rice cakes with meat, cheese and diverse spreads. We plan to have food available at the snack bar all day long, but only plan to keep out the refrigerated toppings and spreads during breakfast and dinner meal times. There is a common kitchen available to overnight participants and a kitchenette available to day participants.
 
 Cross-Gen Mario Kart Tournament
 -------------------------------

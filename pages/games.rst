@@ -42,7 +42,7 @@ Play on 100" screen via 4K projector
 * Dirt 5 [GPU]
 * Gang Beasts [GPU]
 * Goat Simulator [GPU]
-* Golf With Friends [GPU]
+* Golf With Your Friends [GPU]
 * Horizon Chase Turbo
 * Hotshot Racing
 * Moving Out
