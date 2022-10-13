@@ -15,7 +15,7 @@ Feel free to show up earlier on Friday, but be aware we may not have everything 
 FRIDAY:
 -----------------
 18:00 Ludo begins
-19:00 Frozen pizza or Halbe Pizza
+19:00 Dinner To Be Announced
 23:30 End of Open Gaming for Day Participants
 ===== ===========
 
@@ -24,7 +24,7 @@ SATURDAY:
 ---------------------------------
 8:00-10:00  Continental Breakfast
 13:00-      Lunch at Peggy's Diner (near the Esperanto-Stacio)
-15:30-      Cross-Gen MarioKart tournament (GameCube, N64, SNES)
+15:30-      Canceled: MarioKart tournament
 18:00-20:00 Continental Dinner
 23:30       End of Open Gaming for Day Participants
 =========== =====================
@@ -33,7 +33,7 @@ SATURDAY:
 SUNDAY:
 ---------------------------------
 8:00-10:00  Continental Breakfast
-13:00-      Lunch at Goldener Stern (German restaurant across the street)
+13:00-      Lunch at Kalimera am See (Greek restaurant on the lake)
 18:00-20:00 Continental Dinner
 23:30       End of Open Gaming for Day Participants
 =========== =====================
@@ -42,6 +42,8 @@ The Sat/Sun dinner is the same as breakfast… rolls, bread, rice cakes with mea
 
 Cross-Gen Mario Kart Tournament
 -------------------------------
+
+*The MarioKart tournament is unfortunately canceled since the tournament director is no longer able to attend the event.*
 
 "It's a me, Mario!" We'd like to invite you to join us for a Cross-Gen Mario Kart tournament!
 
