@@ -71,33 +71,21 @@ Play on 100" screen via 4K projector
 * It Takes Two [GPU]
 * Jetpac Reloaded [GPU]
 * Peggle 2 [GPU]
-* Taiko no Tatsujin [GPU]
-* Windjammers 2 [GPU]
 
 *[GPU] = Game Pass Ultimate (could disappear from the library anytime)*
-
-Google Stadia (2019)
-====================
-
-Play our game library on almost every screen we have, experience cloud gaming
-
-4 Player
---------
-
-* Cake Bash - like Mario Party
-* Golf With Your Friends - minigolf
-* Killer Queen Black - 8-player platforming Joust-like battle 
-* Just Shapes & Beats - move to the beat, avoid obstacles
-* Monopoly - financial board game
-* Monopoly Madness - crazy party game based on Monopoly
-* PGA Tour 2K21 - great golf simulation
-* Trials Rising - physics-based 2D motorcycle racing
-* Worms W.M.D. - cute strategic battle game
 
 Nintendo Switch (2017)
 ======================
 
+8 Player
+--------
 
+* Sega Ages Virtua Racing
+
+6 Player
+--------
+
+* Worms WMD
 
 Nintendo GameCube (2001)
 ========================
