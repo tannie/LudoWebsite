@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://ludo.events/</loc>
-  <lastmod>2023-01-23T21:52:00Z</lastmod>
+  <lastmod>2023-02-19T08:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/2022/</loc>
@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://ludo.events/assets/</loc>
-  <lastmod>2023-01-23T21:52:00Z</lastmod>
+  <lastmod>2023-02-19T08:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/assets/about.html</loc>
@@ -42,168 +42,8 @@
   <lastmod>2023-01-23T21:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ludo.events/de/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/de/2022/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/de/archive.html</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/de/categories/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/de/contact-form/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/de/directions/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/de/galleries/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/de/galleries/Consoles/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/de/galleries/Past_Events/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/de/neu/2022/09/08/another-new-post/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/de/neu/2022/09/09/hai/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/de/news/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/de/registration/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
   <loc>https://ludo.events/directions/</loc>
   <lastmod>2023-01-23T21:52:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/eo/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/eo/2022/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/eo/archive.html</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/eo/categories/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/eo/contact-form/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/eo/directions/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/eo/galleries/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/eo/galleries/Consoles/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/eo/galleries/Past_Events/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/eo/news/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/eo/news/2022/09/08/another-new-post/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/eo/news/2022/09/08/another-new-post1/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/eo/news/2022/09/09/hai/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/eo/registration/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/es/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/es/2022/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/es/archive.html</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/es/categories/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/es/contact-form/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/es/directions/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/es/galleries/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/es/galleries/Consoles/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/es/galleries/Past_Events/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/es/news/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/es/news/2022/09/08/another-new-post/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/es/news/2022/09/09/hai/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/es/registration/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/games/</loc>
@@ -212,10 +52,6 @@
  <url>
   <loc>https://ludo.events/listings/</loc>
   <lastmod>2023-01-23T21:52:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ludo.events/location/</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://ludo.events/news/</loc>

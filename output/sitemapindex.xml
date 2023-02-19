@@ -6,59 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://ludo.events/de/galleries/Consoles/rss.xml</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/de/galleries/Past_Events/rss.xml</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/de/galleries/rss.xml</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/de/rss.xml</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/eo/galleries/Consoles/rss.xml</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/eo/galleries/Past_Events/rss.xml</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/eo/galleries/rss.xml</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/eo/rss.xml</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/es/galleries/Consoles/rss.xml</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/es/galleries/Past_Events/rss.xml</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/es/galleries/rss.xml</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://ludo.events/es/rss.xml</loc>
-  <lastmod>2022-09-21T13:18:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://ludo.events/rss.xml</loc>
   <lastmod>2023-01-23T21:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ludo.events/sitemap.xml</loc>
-  <lastmod>2023-01-23T21:52:00Z</lastmod>
+  <lastmod>2023-02-19T08:53:00Z</lastmod>
  </sitemap>
 </sitemapindex>
