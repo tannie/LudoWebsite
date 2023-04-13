@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Ludo"  # (translatable)
-BLOG_TITLE = "Ludo 2022"  # (translatable)
+BLOG_TITLE = "Ludo 2023"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://ludo.events/"

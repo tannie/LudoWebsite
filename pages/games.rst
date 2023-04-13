@@ -20,6 +20,7 @@ Meta Quest 2 (2020)
 Play on 2 VR headsets at Ludo
 
 * Beat Saber
+* Catan VR
 * Dash Dash World
 * Eleven Table Tennis (with table tennis grips!)
 * Hand Physics Lab
@@ -31,6 +32,7 @@ Xbox Series S (2020)
 
 Play on 100" screen via 4K projector
 
+
 4 Player
 --------
 
@@ -38,19 +40,23 @@ Play on 100" screen via 4K projector
 * Avicii Invector: Encore Edition
 * Brawlhalla
 * Cake Bash
+* Catan
 * Death Squared
 * Dirt 5 [GPU]
+* FIFA 22 [GPU]
 * Gang Beasts [GPU]
 * Goat Simulator [GPU]
-* Golf With Your Friends [GPU]
+* Golf With Your Friends [GPU] (12 Player)
 * Horizon Chase Turbo
 * Hotshot Racing
+* It's Quiz Time (8 Player)
 * Moving Out
 * Multiversus
 * NHL 22 [GPU]
 * NHL 94 Rewind [GPU]
 * Overcooked 2 [GPU]
 * Pac-Man Museum+ [GPU]
+* Pinball FX 3
 * Puyo Puyo Tetris 2
 * Rocket League
 * Slipstream
@@ -59,17 +65,24 @@ Play on 100" screen via 4K projector
 * Teenage Mutant Ninja Turtles: Cowabunga Collection
 * Tetris Effect
 * Trials Fusion
+* Trials Rising
 * Tricky Towers
-* Worms WMD [GPU]
+* Trivial Pursuit Live 2
+* Worms WMD (6 Player)
 
 2 Player
 --------
 
+* Asteroids Recharged
+* Blood Bowl 2
+* Centipede Recharged
 * Contra Anniversary Collection
 * Escape Academy [GPU]
 * Frogger
+* Gravatar Recharged
 * It Takes Two [GPU]
 * Jetpac Reloaded [GPU]
+* Lumines Remastered
 * Peggle 2 [GPU]
 
 *[GPU] = Game Pass Ultimate (could disappear from the library anytime)*
@@ -80,12 +93,24 @@ Nintendo Switch (2017)
 8 Player
 --------
 
-* Sega Ages Virtua Racing
+* Clusterpuck 99
+* Virtua Racing (Sega Ages)
+* Shipped
 
 6 Player
 --------
 
 * Worms WMD
+
+4 Player
+--------
+
+* Pinball FX 3
+
+2 Player
+--------
+
+* Big Tournament Golf
 
 Nintendo GameCube (2001)
 ========================
