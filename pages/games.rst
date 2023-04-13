@@ -100,17 +100,40 @@ Nintendo Switch (2017)
 6 Player
 --------
 
+* Monopoly
+* Monopoly Madness
 * Worms WMD
 
 4 Player
 --------
 
+* Aloof
+* Badland
+* Beat me!
+* Death Squared
+* Horizon Chase Turbo
+* Hotshot Racing
+* It came from space and ate our brains
+* Moving Out
+* Overcooked
+* Overcooked 2
 * Pinball FX 3
+* Tricky Towers
+* Urban Flow
 
 2 Player
 --------
 
 * Big Tournament Golf
+* Child of light
+* Death's hangover
+* The Escapists 2
+* Reverse Crawl
+* Spiritfarer
+* Tactical Mind
+* Trials Rising
+* Unravel Two
+* World of Goo
 
 Nintendo GameCube (2001)
 ========================
