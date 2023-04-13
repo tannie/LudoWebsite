@@ -1,5 +1,6 @@
 /* @override 
-	http://127.0.0.1:8000/assets/css/style.css */
+	http://127.0.0.1:8000/assets/css/style.css
+	https://ludo.events/assets/css/style.css */
 
 body {
   font-family: 'Raleway', sans-serif;
@@ -1414,5 +1415,31 @@ a:focus {
 
 .footer_section a {
   color: #ffffff;
+}
+
+main#content article.post-text.storypage div.e-content.entry-content table {
+margin-bottom: 15px;
+min-width: 300px;
+max-width: 500px;
+width: 80%;
+padding: 5px !important;
+
+}
+
+main#content article.post-text.storypage div.e-content.entry-content table thead tr th.head {
+		background-color: rgba(225, 224, 224, 0.58);
+min-width: 120px;
+max-width: 300px;
+
+}
+main#content article.post-text.storypage div.e-content.entry-content table tbody tr td,
+main#content article.post-text.storypage div.e-content.entry-content table thead tr th.head p {
+	padding: 2px;
+}
+
+
+main#content article.post-text.storypage div.e-content.entry-content table tbody td:first-of-type {
+	padding-right: 10px;
+	width: 120px;
 }
 /*# sourceMappingURL=style.css.map */
