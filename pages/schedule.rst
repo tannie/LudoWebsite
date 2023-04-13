@@ -11,18 +11,20 @@ Welcome to the Station: we got fun and games! Schedule subject to change.
 
 Feel free to show up earlier on Friday, but be aware we may not have everything ready to play before 18:00.
 
-===== ===========
+======= ===========
 FRIDAY:
------------------
-18:00 Ludo begins
-19:00 Dinner (To Be Announced)
-23:30 End of Open Gaming for Day Participants
-===== ===========
+------------------- 
+======= ===========
+18:00   Ludo begins
+19:00   Dinner (To Be Announced)
+23:30   End of Open Gaming for Day Participants
+======= ===========
 
 =========== =====================
 SATURDAY:
 ---------------------------------
-8:00-10:00  Continental Breakfast
+=========== =====================
+ 8:00-10:00 Continental Breakfast
 13:00-      Lunch (near the Esperanto-Stacio)
 18:00-20:00 Continental Dinner
 23:30       End of Open Gaming for Day Participants
@@ -31,7 +33,8 @@ SATURDAY:
 =========== =====================
 SUNDAY:
 ---------------------------------
-8:00-10:00  Continental Breakfast
+=========== =====================
+ 8:00-10:00 Continental Breakfast
 13:00-      Lunch (near the Esperanto-Stacio)
 18:00-20:00 Continental Dinner
 23:30       End of Open Gaming for Day Participants
@@ -40,7 +43,8 @@ SUNDAY:
 =========== =====================
 MONDAY:
 ---------------------------------
-8:00-10:00  Continental Breakfast
+=========== =====================
+ 8:00-10:00  Continental Breakfast
 13:00-      Lunch (near the Esperanto-Stacio)
 =========== =====================
 
