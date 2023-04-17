@@ -30,8 +30,11 @@ Play on 2 VR headsets at Ludo
 Xbox Series S (2020)
 ====================
 
-Play on 100" screen via 4K projector
+.. image:: /images/xbox_worms.jpg
+	:class: fluid float-right post-thumbnail
+	:target: /images/xbox_worms.jpg
 
+Play on a massive 100" screen via 4K projector
 
 4 Player
 --------
@@ -169,6 +172,10 @@ Nintendo GameCube (2001)
 
 Super Nintendo (1991)
 =====================
+
+.. image:: /images/snes_trinitron.thumbnail.jpg
+	:class: fluid float-right post-thumbnail
+	:target: /images/snes_trinitron.jpg
 
 Playable on 29” Sony Trinitron CRT w/ original North American SNES
 
