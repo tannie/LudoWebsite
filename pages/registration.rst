@@ -19,12 +19,25 @@ The local supermarket is right across the track and we have a fully functional k
 **SLEEP:** We only have 15 beds (2-4 beds per room with attached shower and bathroom). Sign up asap to reserve your spot! If "too many" people join, we might be able to find additional accommodation nearby. There is hostel-style accomodation on-site with 2-4 beds per room and attached bathroom/shower to every room, so you can basically wake up, go downstairs and start gaming already. 
 
 **GAME:** Full access to our gaming systems from everything from retro Pong, Super Nintendo and GameCube to modern Quest 2 VR and Xbox Series S. 
+	
+Pre-payment (overnight guests only)
+===================================
 
-Registration opening soon
-=========================
+Due to many last-minute cancellations last year, we are now requiring pre-payment to receive your bed during Ludo. Please pay at least a €40 non-refundable deposit or pay in full. If you pay in full, you can still receive a full refund minus the €40 prepayment if you cannot attend Ludo. Please pay via one of the following methods after you register:
 
-Please be patient as we are currently preparing the registration form.
+German Bank Transfer
+--------------------
+
+| **Name:** Charles Sterling Smith
+| **IBAN:** DE23 1001 1001 2626 0839 89
+| **BIC:** NTSBDEB1XXX
+| 
+
+Paypal
+------
+
+**Email:** chuck (@) chuck (dot) at
 
 .. raw:: html
 
-	<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdXLboaph79x4hZCLSAYcRP1VBlv8Ia9m5_155phUpIcKfgoQ/viewform?embedded=true"  scrolling="no"  frameborder="0" marginheight="0" class="embedded-signup" marginwidth="0">Loading…</iframe> -->
+	<iframe src="https://docs.google.com/forms/d/1B7PbPqUxsB3PQg4x74prvJbg9-ivG-CdpDMRv2OHJuc/viewform?embedded=true"  scrolling="no"  frameborder="0" marginheight="0" class="embedded-signup" marginwidth="0">Loading…</iframe>
