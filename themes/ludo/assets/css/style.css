@@ -185,7 +185,7 @@ text-align: left;
 @media (min-width: 768px) {
    .embedded-signup {
         width:450px;
-	height:3230px;
+	height:3480px;
   }
     #gmap_canvas {
     width: 600px;
@@ -196,7 +196,7 @@ text-align: left;
 @media (min-width: 992px) {
     .embedded-signup {
     width: 620px;
-			    height:3110px;
+			    height:3310px;
 
   }
 }
@@ -204,7 +204,7 @@ text-align: left;
 @media (min-width: 1200px) {
    .embedded-signup {
     width: 760px;
-   			    height:3030px;
+   			    height:3230px;
 
   }
 }
