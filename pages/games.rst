@@ -30,7 +30,7 @@ Play on 2 VR headsets at Ludo
 Xbox Series S (2020)
 ====================
 
-.. image:: /images/xbox_worms.jpg
+.. image:: /images/xbox_worms.thumbnail.jpg
 	:class: fluid float-right post-thumbnail
 	:target: /images/xbox_worms.jpg
 
