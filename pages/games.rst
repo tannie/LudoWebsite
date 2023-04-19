@@ -97,8 +97,9 @@ Nintendo Switch (2017)
 --------
 
 * Clusterpuck 99
-* Virtua Racing (Sega Ages)
+* Killer Queen Black
 * Shipped
+* Virtua Racing (Sega Ages)
 
 6 Player
 --------
