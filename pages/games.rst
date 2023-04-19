@@ -12,7 +12,7 @@ Ludo's game library features hits from many generations of video games from retr
 Metal Dance Mats
 ================
 
-* Project Outfox (fork of Stepmania) - modern Dance Dance Revolution clone
+* Project Outfox (fork of Stepmania) - modern Dance Dance Revolution clone (2 Player!)
 
 Meta Quest 2 (2020)
 ===================
@@ -36,10 +36,25 @@ Xbox Series S (2020)
 
 	Play on a massive 100" screen via 4K projector
 
-4 Player
+12 Player
+---------
+
+* Golf With Your Friends [GPU]
+
+8 Player
 --------
 
 * As Dusk Falls [GPU]
+* It's Quiz Time
+
+6 Player
+--------
+
+* Teenage Mutant Ninja Turtles: Shredder’s Revenge [GPU]
+
+4 Player
+--------
+
 * Avicii Invector: Encore Edition
 * Brawlhalla
 * Cake Bash
@@ -49,10 +64,8 @@ Xbox Series S (2020)
 * FIFA 22 [GPU]
 * Gang Beasts [GPU]
 * Goat Simulator [GPU]
-* Golf With Your Friends [GPU] (12 Player)
 * Horizon Chase Turbo
 * Hotshot Racing
-* It's Quiz Time (8 Player)
 * Moving Out
 * Multiversus
 * NHL 22 [GPU]
@@ -64,7 +77,6 @@ Xbox Series S (2020)
 * Rocket League
 * Slipstream
 * SpiderHeck [GPU]
-* Teenage Mutant Ninja Turtles: Shredder’s Revenge [GPU] (6 Player)
 * Teenage Mutant Ninja Turtles: Cowabunga Collection
 * Tetris Effect
 * Trials Fusion
