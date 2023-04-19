@@ -30,11 +30,11 @@ Play on 2 VR headsets at Ludo
 Xbox Series S (2020)
 ====================
 
-.. image:: /images/xbox_worms.thumbnail.jpg
-	:class: fluid float-right post-thumbnail
+.. figure:: /images/xbox_worms.thumbnail.jpg
+	:class: fluid post-thumbnail
 	:target: /images/xbox_worms.jpg
 
-Play on a massive 100" screen via 4K projector
+	Play on a massive 100" screen via 4K projector
 
 4 Player
 --------
