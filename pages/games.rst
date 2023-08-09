@@ -55,6 +55,7 @@ Xbox Series S (2020)
 4 Player
 --------
 
+* Arkanoid Eternal Battle
 * Avicii Invector: Encore Edition
 * Brawlhalla
 * Cake Bash
@@ -68,7 +69,6 @@ Xbox Series S (2020)
 * Hotshot Racing
 * Moving Out
 * Multiversus
-* NHL 22 [GPU]
 * NHL 94 Rewind [GPU]
 * Overcooked 2 [GPU]
 * Pac-Man Museum+ [GPU]
@@ -77,8 +77,7 @@ Xbox Series S (2020)
 * Rocket League
 * Slipstream
 * SpiderHeck [GPU]
-* Teenage Mutant Ninja Turtles: Cowabunga Collection
-* Tetris Effect
+* Teenage Mutant Ninja Turtles: Cowabunga Collection [GPU]
 * Trials Fusion
 * Trials Rising
 * Tricky Towers
@@ -91,12 +90,14 @@ Xbox Series S (2020)
 * Asteroids Recharged
 * Blood Bowl 2
 * Centipede Recharged
+* Chess Ultra
 * Contra Anniversary Collection
 * Escape Academy [GPU]
 * Frogger
 * Gravatar Recharged
 * It Takes Two [GPU]
 * Jetpac Reloaded [GPU]
+* Joust
 * Lumines Remastered
 * Peggle 2 [GPU]
 
