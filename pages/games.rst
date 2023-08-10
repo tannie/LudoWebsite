@@ -51,6 +51,7 @@ Xbox Series S (2020)
 --------
 
 * Teenage Mutant Ninja Turtles: Shredder’s Revenge [GPU]
+* Worms W.M.D
 
 4 Player
 --------
@@ -82,7 +83,6 @@ Xbox Series S (2020)
 * Trials Rising
 * Tricky Towers
 * Trivial Pursuit Live 2
-* Worms WMD (6 Player)
 
 2 Player
 --------
@@ -119,7 +119,7 @@ Nintendo Switch (2017)
 
 * Monopoly
 * Monopoly Madness
-* Worms WMD
+* Worms W.M.D
 
 4 Player
 --------
