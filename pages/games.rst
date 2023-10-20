@@ -30,17 +30,27 @@ PC
 4 Player
 --------
 
+* Hotshot Racing
 * It's Quiz Time
 * Jackbox Party Pack
 * Jackbox Party Pack 3
 * Jackbox Party Pack 5
 * Jackbox Party Pack 7
 * Jackbox Party Pack 9
+* Pinball FX 3
+* Sonic All-Star Racing Transformed Collection
+* Worms Crazy Golf
+* Worms W.M.D.
+* Zaccaria Pinball
 
 2 Player
 --------
 
+* Blood Bowl 2
+* Centipede Recharged
 * Mayan Death Robots
+* Missile Command Recharged
+* Nidhogg
 
 *[GPU] = Game Pass Ultimate (could disappear from the library anytime)*
 
