@@ -6,11 +6,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://ludo.events/galleries/Consoles/rss.xml</loc>
+  <lastmod>2023-04-23T17:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ludo.events/galleries/Past_Events/rss.xml</loc>
+  <lastmod>2023-04-23T17:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ludo.events/galleries/rss.xml</loc>
+  <lastmod>2023-04-23T17:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://ludo.events/rss.xml</loc>
-  <lastmod>2023-04-13T09:07:00Z</lastmod>
+  <lastmod>2023-04-13T11:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ludo.events/sitemap.xml</loc>
-  <lastmod>2023-04-13T09:07:00Z</lastmod>
+  <lastmod>2023-10-20T09:32:00Z</lastmod>
  </sitemap>
 </sitemapindex>

@@ -1,4 +1,4 @@
-.. title: Registration: Ludo (18-21 Aug 2023)
+.. title: Registration: Ludo (6-9 Sept 2024)
 .. slug: registration
 .. date: 2012-03-30 23:00:00 UTC-03:00
 .. tags: 

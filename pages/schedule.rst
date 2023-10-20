@@ -44,7 +44,7 @@ SUNDAY:
 MONDAY:
 ---------------------------------
 =========== =====================
- 8:00-10:00  Continental Breakfast
+ 8:00-10:00 Continental Breakfast
 13:00-      Lunch (near the Esperanto-Stacio)
 =========== =====================
 
