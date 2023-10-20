@@ -60,8 +60,6 @@ Meta Quest 3 (2023)
 Play on 2 VR headsets at Ludo
 
 * Beat Saber
-* Catan VR
-* Dash Dash World
 * Eleven Table Tennis (with table tennis grips!)
 * Hand Physics Lab
 * Keep Talking and Nobody Explodes
