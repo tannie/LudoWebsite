@@ -5,7 +5,7 @@
 .. link: 
 .. description: 
 
-Ludo's game library features hits from many generations of video games from retro Pong, Super Nintendo and GameCube all the way up to modern Meta Quest 2 VR and Xbox Series S.
+Ludo's game library features hits from many generations of video games from retro Pong, Super Nintendo and GameCube all the way up to modern Meta Quest 3 VR and Xbox Series S.
 
 .. contents::
 
@@ -14,7 +14,37 @@ Metal Dance Mats
 
 * Project Outfox (fork of Stepmania) - modern Dance Dance Revolution clone (2 Player!)
 
-Meta Quest 2 (2020)
+PC
+==
+
+8 Player
+--------
+
+* Towerfall
+
+6 Player
+--------
+
+* Teenage Mutant Ninja Turtles: Shredder’s Revenge [GPU]
+
+4 Player
+--------
+
+* It's Quiz Time
+* Jackbox Party Pack
+* Jackbox Party Pack 3
+* Jackbox Party Pack 5
+* Jackbox Party Pack 7
+* Jackbox Party Pack 9
+
+2 Player
+--------
+
+* Mayan Death Robots
+
+*[GPU] = Game Pass Ultimate (could disappear from the library anytime)*
+
+Meta Quest 3 (2023)
 ===================
 
 Play on 2 VR headsets at Ludo
@@ -46,6 +76,7 @@ Xbox Series S (2020)
 
 * As Dusk Falls [GPU]
 * It's Quiz Time
+* The Jackbox Party Pack 5
 
 6 Player
 --------
@@ -127,6 +158,7 @@ Nintendo Switch (2017)
 * Aloof
 * Badland
 * Beat me!
+* Cruis'n Blast
 * Death Squared
 * Horizon Chase Turbo
 * Hotshot Racing
