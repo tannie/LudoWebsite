@@ -102,16 +102,24 @@ Xbox Series S (2020)
 * Catan
 * Death Squared
 * Dirt 5 [GPU]
+* Doritos Crash Course
 * FIFA 22 [GPU]
+* Fuzion Frenzy
 * Gang Beasts [GPU]
 * Goat Simulator [GPU]
+* GoldenEye 007 [GPU]
+* Guts 'N Goals
 * Horizon Chase Turbo
 * Hotshot Racing
+* Inertial Drift
 * Moving Out
 * Multiversus
 * NHL 94 Rewind [GPU]
+* Out of Space: Couch Edition
 * Overcooked 2 [GPU]
 * Pac-Man Museum+ [GPU]
+* Party Animals [GPU]
+* PGA Tour 2K23
 * Pinball FX 3
 * Puyo Puyo Tetris 2
 * Rocket League
@@ -132,13 +140,18 @@ Xbox Series S (2020)
 * Chess Ultra
 * Contra Anniversary Collection
 * Escape Academy [GPU]
+* Final Fight: Double Impact
 * Frogger
-* Gravatar Recharged
+* Gravitar Recharged
+* Human Fall Flat
 * It Takes Two [GPU]
 * Jetpac Reloaded [GPU]
 * Joust
 * Lumines Remastered
+* Ms Pac-Man
 * Peggle 2 [GPU]
+* Portal 2
+* Star Wars Racer
 
 *[GPU] = Game Pass Ultimate (could disappear from the library anytime)*
 
