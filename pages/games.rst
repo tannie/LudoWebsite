@@ -20,7 +20,7 @@ PC
 8 Player
 --------
 
-* Towerfall
+* Towerfall Ascension
 
 6 Player
 --------
@@ -38,6 +38,7 @@ PC
 * Jackbox Party Pack 7
 * Jackbox Party Pack 9
 * Pinball FX 3
+* Shovel Knight Showdown
 * Sonic All-Star Racing Transformed Collection
 * Worms Crazy Golf
 * Worms W.M.D.
