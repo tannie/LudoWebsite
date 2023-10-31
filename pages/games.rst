@@ -159,9 +159,15 @@ Xbox Series S (2020)
 Nintendo Switch (2017)
 ======================
 
+12 Player
+---------
+
+* Golf With Your Friends
+
 8 Player
 --------
 
+* Brakes Are For Losers
 * Clusterpuck 99
 * Killer Queen Black
 * Shipped
