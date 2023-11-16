@@ -85,7 +85,8 @@ Xbox Series S (2020)
 
 * As Dusk Falls [GPU]
 * It's Quiz Time
-* The Jackbox Party Pack 5
+* Jackbox Party Pack 5
+* Ultimate Racing 2D
 
 6 Player
 --------
