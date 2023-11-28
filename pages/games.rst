@@ -30,6 +30,9 @@ PC
 4 Player
 --------
 
+* Antonball Deluxe
+* Avicii Invector
+* Dokapon Kingdom Connect
 * Hotshot Racing
 * It's Quiz Time
 * Jackbox Party Pack
@@ -43,6 +46,12 @@ PC
 * Worms Crazy Golf
 * Worms W.M.D.
 * Zaccaria Pinball
+
+3 Player
+--------
+
+* You Don't Know Jack Vol 1 XL
+* You Don't Know Jack Vol 4 The Ride
 
 2 Player
 --------
