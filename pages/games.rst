@@ -61,6 +61,7 @@ PC
 * Mayan Death Robots
 * Missile Command Recharged
 * Nidhogg
+* Rounds
 
 *[GPU] = Game Pass Ultimate (could disappear from the library anytime)*
 
@@ -82,7 +83,7 @@ Xbox Series S (2020)
 	:class: fluid post-thumbnail
 	:target: /images/xbox_worms.jpg
 
-	Play on a massive 100" screen via 4K projector
+	Play on a massive 150" screen via 4K projector
 
 12 Player
 ---------
@@ -196,6 +197,7 @@ Nintendo Switch (2017)
 * Aloof
 * Badland
 * Beat me!
+* Cake Bash
 * Cruis'n Blast
 * Death Squared
 * Horizon Chase Turbo
@@ -214,6 +216,7 @@ Nintendo Switch (2017)
 * Big Tournament Golf
 * Child of light
 * Death's hangover
+* Dyadic
 * The Escapists 2
 * Reverse Crawl
 * Spiritfarer
