@@ -10,3 +10,32 @@ Ludo is an event held at the Esperanto-Stacio in Halbe (just outside Berlin) on 
 .. raw:: html
 
 	<iframe class="YouTube_iframe" src="https://youtube.com/embed/WIr2oBJ-Vqs?rel=0"	></iframe>
+	
+Games Played (Ludo 2023)
+========================
+
+To get a feel of what we like to play, here's all the games we played last year!
+
+* Avicii Invector
+* It's Quiz Time
+* Words W.M.D.
+* Beat Saber (VR)
+* Escape Academy
+* Street Fighter II
+* Super Mario Kart
+* Super Monkey Ball 2
+* F-Zero GX
+* Ragnarock (VR)
+* Tricky Towers
+* Moving Out
+* You Don't Know Jack (Full Stream)
+* Golf With Your Friends
+* Virtua Racing
+* Dance Dance Revolution
+* Microsoft Flight Simulator (VR)
+* Keep Talking and Nobody Explodes (VR)
+* Slay the Spire
+* Hi-Fi Rush
+* Epic Rollercoaster (VR)
+
+See our `full library <games.rst>`_ for more!
