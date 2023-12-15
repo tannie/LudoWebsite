@@ -13,26 +13,26 @@ Games Played (Ludo 2023)
 To get a feel of what we like to play, here's all the games we played last year!
 
 * Avicii Invector
-* It's Quiz Time
-* Words W.M.D.
 * Beat Saber (VR)
+* Dance Dance Revolution
+* Epic Rollercoaster (VR)
 * Escape Academy
+* F-Zero GX
+* Golf With Your Friends
+* Hi-Fi Rush
+* It's Quiz Time
+* Keep Talking and Nobody Explodes (VR)
+* Microsoft Flight Simulator (VR)
+* Moving Out
+* Ragnarock (VR)
+* Slay the Spire
 * Street Fighter II
 * Super Mario Kart
 * Super Monkey Ball 2
-* F-Zero GX
-* Ragnarock (VR)
 * Tricky Towers
-* Moving Out
-* You Don't Know Jack (Full Stream)
-* Golf With Your Friends
 * Virtua Racing
-* Dance Dance Revolution
-* Microsoft Flight Simulator (VR)
-* Keep Talking and Nobody Explodes (VR)
-* Slay the Spire
-* Hi-Fi Rush
-* Epic Rollercoaster (VR)
+* Words W.M.D.
+* You Don't Know Jack (Full Stream)
 
 See our `full library <games>`_ for more!
 
