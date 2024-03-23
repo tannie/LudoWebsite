@@ -7,6 +7,14 @@
 
 Ludo is an event held at the Esperanto-Stacio in Halbe (just outside Berlin) on 6-9 September 2024. This will be an extended videogame weekend in which we'll play everything from modern to retro game systems. For example, we'll play VR together on the Meta Quest 3 and local multiplayer on the Xbox Series S. Enjoy a 2-player modern dance pad experience similar to Dance Dance Revolution. As for retro, we'll have systems from Pong to Nintendo GameCube. We also have a 4K projector on a 150" screen for an epic local multiplayer gaming experience that's hard to get anywhere else!
 
+Special Guest: Russ from Retro Game Corps
+-----------------------------------------
+
+Russ, also known as `*Retro Game Corps*
+<https://https://retrogamecorps.com/>`_, is a prominent figure in the world of retro gaming and emulation. With a passion for classic and modern games, Russ has carved out a niche for himself on his YouTube channel, where he shares in-depth reviews, emulation setup guides, and fun new ways to play beloved titles. His content caters to both seasoned enthusiasts and newcomers, making it accessible and engaging for all. Russ’s expertise extends to various handheld gaming devices, and he’s always on the lookout for exciting developments in the gaming world.
+
+Since he'll be flying in all the way from Hawaii, Ludo presents a **unique opportunity to meet him in Europe**, making it an unforgettable experience for gaming enthusiasts across the continent. Don’t miss out on the chance to learn from a true gaming aficionado!
+
 Games Played (Ludo 2023)
 ------------------------
 
