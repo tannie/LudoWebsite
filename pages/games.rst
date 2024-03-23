@@ -80,7 +80,7 @@ Xbox Series S (2020)
 ====================
 
 .. figure:: /images/xbox_worms.thumbnail.jpg
-	:class: fluid post-thumbnail
+	:class: fluid float-right post-thumbnail
 	:target: /images/xbox_worms.jpg
 
 	Play on a massive 150" screen via 4K projector
