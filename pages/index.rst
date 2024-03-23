@@ -10,6 +10,10 @@ Ludo is an event held at the Esperanto-Stacio in Halbe (just outside Berlin) on 
 Special Guest: Russ from Retro Game Corps
 -----------------------------------------
 
+.. image:: /images/russ.thumbnail.jpg
+	:class: fluid float-right post-thumbnail
+	:target: /images/russ.jpg
+
 Russ, also known as `Retro Game Corps
 <https://retrogamecorps.com/>`_, is a prominent figure in the world of retro gaming and emulation. With a passion for classic and modern games, Russ has carved out a niche for himself on his YouTube channel, where he shares in-depth reviews, emulation setup guides, and fun new ways to play beloved titles. His content caters to both seasoned enthusiasts and newcomers, making it accessible and engaging for all. Russ’s expertise extends to various handheld gaming devices, and he’s always on the lookout for exciting developments in the gaming world.
 
