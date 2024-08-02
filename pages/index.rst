@@ -5,7 +5,7 @@
 .. link: 
 .. description: 
 
-Ludo is an event held at the Esperanto-Stacio in Halbe (just outside Berlin) on 6-9 September 2024. This will be an extended videogame weekend in which we'll play everything from modern to retro game systems. For example, we'll play VR together on the Meta Quest 3 and local multiplayer on the Xbox Series S. Enjoy a 2-player modern dance pad experience similar to Dance Dance Revolution. As for retro, we'll have systems from Pong to Nintendo GameCube. We also have a 4K projector on a 150" screen for an epic local multiplayer gaming experience that's hard to get anywhere else!
+Ludo is an event held at the Esperanto-Stacio in Halbe (just outside Berlin) on 6-9 September 2024. This will be an extended videogame weekend in which we'll play everything from modern to retro game systems. For example, we'll play VR together on the Meta Quest 3 and local multiplayer on the Xbox Series S. Enjoy a 2-player modern dance pad experience similar to Dance Dance Revolution. As for retro, we'll have systems from Pong to Nintendo GameCube. We also have a 4K projector on a 100" screen for an epic local multiplayer gaming experience that's hard to get anywhere else!
 
 Special Guest: Russ from Retro Game Corps
 -----------------------------------------
@@ -19,12 +19,12 @@ Russ, also known as `Retro Game Corps
 
 Since he'll be flying in all the way from Hawaii, Ludo presents a **unique opportunity to meet him in Europe**, making it an unforgettable experience for gaming enthusiasts across the continent. Don’t miss out on the chance to learn from a true gaming aficionado!
 
-Special Guest: MashTec
-----------------------
-
 .. image:: /images/MashTec_Logo_Round_New.thumbnail.png
 	:class: fluid float-right post-thumbnail
 	:target: /images/MashTec_Logo_Round_New.png
+
+Special Guest: MashTec
+----------------------
 
 `MashTec <https://manuelschoeneberge2.wixsite.com/meinewebsite>`_ delved into the world of retro gaming handhelds in late 2019. His YouTube channel, born from a passion for these devices, introduced EmulationStation and RetroArch to the community. Manufacturers like Anbernic and Powkiddy continue to use these systems to this day. Beyond software, MashTec (Ma(nuel)S(c)h(oeneberger)Tec(h)) reviews devices and shares improvements, making MashTec a hub for retro gaming enthusiasts.
 
