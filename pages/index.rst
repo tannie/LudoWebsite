@@ -19,6 +19,15 @@ Russ, also known as `Retro Game Corps
 
 Since he'll be flying in all the way from Hawaii, Ludo presents a **unique opportunity to meet him in Europe**, making it an unforgettable experience for gaming enthusiasts across the continent. Don’t miss out on the chance to learn from a true gaming aficionado!
 
+Special Guest: MashTec
+----------------------
+
+.. image:: /images/MashTec_Logo_Round_New.thumbnail.png
+	:class: fluid float-right post-thumbnail
+	:target: /images/MashTec_Logo_Round_New.png
+
+`MashTec <https://manuelschoeneberge2.wixsite.com/meinewebsite>`_ delved into the world of retro gaming handhelds in late 2019. His YouTube channel, born from a passion for these devices, introduced EmulationStation and RetroArch to the community. Manufacturers like Anbernic and Powkiddy continue to use these systems to this day. Beyond software, MashTec (Ma(nuel)S(c)h(oeneberger)Tec(h)) reviews devices and shares improvements, making MashTec a hub for retro gaming enthusiasts.
+
 Games Played (Ludo 2023)
 ------------------------
 
@@ -50,4 +59,4 @@ See our `full library <games>`_ for more!
 
 .. raw:: html
 
-	<iframe class="YouTube_iframe" src="https://youtube.com/embed/WIr2oBJ-Vqs?rel=0"	></iframe>
+	<iframe class="YouTube_iframe" src="https://www.youtube.com/watch?v=2fCkPJflBUw?rel=0"	></iframe>
