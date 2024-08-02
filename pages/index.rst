@@ -28,7 +28,7 @@ Special Guest: MashTec
 
 `MashTec <https://manuelschoeneberge2.wixsite.com/meinewebsite>`_ embarked on a journey into the world of retro gaming handhelds in late 2019 and early 2020. Starting with the RG350—a popular clone of the GCWzero—he delved into the rabbit hole of these nostalgic devices. His familiarity with Linux from work led him to share his findings on YouTube, creating the `MashTec channel <https://www.youtube.com/@MashTec>`_.
 
-As the pioneer who introduced EmulationStation and RetroArch to these handhelds through his explanation videos, MashTec’s influence quickly spread. Manufacturers like Anbernic and Powkiddy adopted these tools for their upcoming devices. But for Russ, it’s not just about software—it’s about pushing boundaries, reviewing devices, and sharing improvements with the community.
+As the pioneer who introduced EmulationStation and RetroArch to these handhelds through his explanation videos, MashTec’s influence quickly spread. Manufacturers like Anbernic and Powkiddy adopted these tools for their upcoming devices. But for Manuel, it’s not just about software—it’s about pushing boundaries, reviewing devices, and sharing improvements with the community.
 
 Games Played (Ludo 2023)
 ------------------------
