@@ -18,8 +18,20 @@ The local supermarket is right across the track and we have a fully functional k
 
 **SLEEP:** We only have 15 beds (2-4 beds per room with attached shower and bathroom). Sign up asap to reserve your spot! If "too many" people join, we might be able to find additional accommodation nearby. There is hostel-style accomodation on-site with 2-4 beds per room and attached bathroom/shower to every room, so you can basically wake up, go downstairs and start gaming already. 
 
-**GAME:** Full access to our gaming systems from everything from retro Pong, Super Nintendo and GameCube to modern Quest 3 VR and Xbox Series S. 
-	
+**GAME:** Full access to our gaming systems from everything from retro Pong, Super Nintendo and GameCube to modern Quest 3 VR and Xbox Series S.
+
+Day Visitors
+============
+
+We sell tickets online via the EventIM platform. If necessary, you can also pay in cash at the door.
+
+`Saturday Day Pass
+<saturday_registration>`_
+
+`Sunday Day Pass
+<sunday_registration>`_
+
+
 Pre-payment (overnight guests only)
 ===================================
 
