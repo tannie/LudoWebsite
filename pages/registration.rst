@@ -26,10 +26,10 @@ Day Visitors
 We sell tickets online via the EventIM platform. If necessary, you can also pay in cash at the door.
 
 `Saturday Day Pass
-<saturday_registration>`_
+<link://slug/saturday_registration>`_
 
 `Sunday Day Pass
-<sunday_registration>`_
+<link://slug/sunday_registration>`_
 
 
 Pre-payment (overnight guests only)
