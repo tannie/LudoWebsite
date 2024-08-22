@@ -1,6 +1,6 @@
 .. title: Saturday Day Pass Registration: Ludo (6-9 Sept 2024)
 .. slug: saturday_registration
-.. date: 2024-08-22 18:12:00 UTC-03:00
+.. date: 2024-08-21 18:12:00 UTC-03:00
 .. tags: 
 .. link: 
 .. description: 
