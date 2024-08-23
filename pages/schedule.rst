@@ -1,10 +1,10 @@
 .. title: Schedule
 .. slug: schedule
 .. date: 2022-09-12 15:22:58+02:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 
 Welcome to the Station: we got fun and games! Schedule subject to change.
@@ -13,7 +13,7 @@ Feel free to show up earlier on Friday, but be aware we may not have everything 
 
 ======= ===========
 FRIDAY:
-------------------- 
+-------------------
 ======= ===========
 18:00   Ludo begins
 19:00   Dinner (To Be Announced)
@@ -46,7 +46,7 @@ MONDAY:
 ---------------------------------
 =========== =====================
  8:00-10:00 Continental Breakfast
-13:00-      Lunch (near the Esperanto-Stacio)
+13:00       Ludo ends
 =========== =====================
 
 The Sat/Sun dinner is the same as breakfast… rolls, bread, rice cakes with meat, cheese and diverse spreads. We plan to have food available at the snack bar all day long, but only plan to keep out the refrigerated toppings and spreads during breakfast and dinner meal times. There is a common kitchen available to overnight participants and a kitchenette available to day participants.
