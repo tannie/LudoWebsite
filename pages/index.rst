@@ -60,6 +60,5 @@ To get a feel of what we like to play, here's all the games we played last year!
 
 See our `full library <games>`_ for more!
 
-.. raw:: html
-
-	<iframe class="YouTube_iframe" src="https://www.youtube.com/embed/2fCkPJflBUw?rel=0"></iframe>
+.. youtube:: 2fCkPJflBUw
+	:align: center
