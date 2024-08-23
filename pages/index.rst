@@ -19,12 +19,13 @@ Russ, also known as `Retro Game Corps
 
 Since he'll be flying in all the way from Hawaii, Ludo presents a **unique opportunity to meet him in Europe**, making it an unforgettable experience for gaming enthusiasts across the continent. Don’t miss out on the chance to learn from a true gaming aficionado!
 
+Special Guest: MashTec
+----------------------
+
+
 .. image:: /images/MashTec_Promo_no_logo.thumbnail.png
 	:class: fluid float-right post-thumbnail
 	:target: /images/MashTec_Promo_no_logo.png
-
-Special Guest: MashTec
-----------------------
 
 `MashTec <https://manuelschoeneberge2.wixsite.com/meinewebsite>`_ embarked on a journey into the world of retro gaming handhelds in late 2019 and early 2020. Starting with the RG350—a popular clone of the GCWzero—he delved into the rabbit hole of these nostalgic devices. His familiarity with Linux from work led him to share his findings on YouTube, creating the `MashTec channel <https://www.youtube.com/@MashTec>`_.
 
