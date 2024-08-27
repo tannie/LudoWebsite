@@ -25,8 +25,8 @@ SATURDAY:
 ---------------------------------
 =========== =====================
  8:00-10:00 Continental Breakfast
-13:00-      Lunch at Bistro Tran (Asian Restaurant)
-15:00-      Cross-Gen Mario Kart Tournament
+13:00       Lunch at Bistro Tran (Asian Restaurant)
+15:00       Cross-Gen Mario Kart Tournament
 18:00-20:00 Continental Dinner
 23:30       End of Open Gaming for Day Participants
 =========== =====================
@@ -36,7 +36,7 @@ SUNDAY:
 ---------------------------------
 =========== =====================
  8:00-10:00 Continental Breakfast
-13:00-      Lunch at `Goldenen Stern <https://www.zumgoldenenstern.de>`_ (German Restaurant)
+13:00       Lunch at `Goldenen Stern <https://www.zumgoldenenstern.de>`_ (German Restaurant)
 18:00-20:00 Continental Dinner
 23:30       End of Open Gaming for Day Participants
 =========== =====================
