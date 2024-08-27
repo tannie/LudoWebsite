@@ -36,7 +36,7 @@ SUNDAY:
 ---------------------------------
 =========== =====================
  8:00-10:00 Continental Breakfast
-13:00-      Lunch (near the Esperanto-Stacio)
+13:00-      Lunch at `Goldenen Stern <https://www.zumgoldenenstern.de>`_
 18:00-20:00 Continental Dinner
 23:30       End of Open Gaming for Day Participants
 =========== =====================
