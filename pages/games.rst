@@ -20,6 +20,10 @@ PC
 8 Player
 --------
 
+* Duck Game
+* Fibbage XL
+* Jackbox Party Pack 1, 3, 5, 7, 8, 9, 10
+* Party Golf
 * Towerfall Ascension
 
 6 Player
@@ -35,14 +39,13 @@ PC
 * Dokapon Kingdom Connect
 * Hotshot Racing
 * It's Quiz Time
-* Jackbox Party Pack
-* Jackbox Party Pack 3
-* Jackbox Party Pack 5
-* Jackbox Party Pack 7
-* Jackbox Party Pack 9
+* No Time to Relax
 * Pinball FX 3
+* Richman 11
 * Shovel Knight Showdown
 * Sonic All-Star Racing Transformed Collection
+* Super Blood Hockey
+* TowerFall Ascension
 * Worms Crazy Golf
 * Worms W.M.D.
 * Zaccaria Pinball
@@ -56,8 +59,10 @@ PC
 2 Player
 --------
 
+* Atari 50
 * Blood Bowl 2
 * Centipede Recharged
+* Hexxagon
 * Mayan Death Robots
 * Missile Command Recharged
 * Nidhogg
