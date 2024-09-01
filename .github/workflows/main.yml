@@ -10,8 +10,8 @@ jobs:
     - name: Check out
       uses: actions/checkout@v2
     - name: get commit message
-        run: |
-            echo Commit MSG = $commitmsg
+      run: |
+        echo Commit MSG = $commitmsg
     - name: Build and Deploy Nikola
       uses: tannie/nikola-action@main
       with:
