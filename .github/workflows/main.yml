@@ -8,6 +8,6 @@ jobs:
     - name: Check out
       uses: actions/checkout@v2
     - name: Build and Deploy Nikola
-      uses: getnikola/nikola-action@v8
+      uses: tannie/nikola-action@main
       with:
         dry_run: false
