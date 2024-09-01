@@ -2,12 +2,17 @@ on: [push]
 
 jobs:
   nikola_build:
+    env:
+      commitmsg: ${{ github.event.head_commit.message }}
     runs-on: ubuntu-latest
     name: 'Deploy Nikola to GitHub Pages'
     steps:
     - name: Check out
       uses: actions/checkout@v2
+    - name: get commit message
+      run: |
+        echo Commit MSG = $commitmsg
     - name: Build and Deploy Nikola
-      uses: getnikola/nikola-action@v8
+      uses: tannie/nikola-action@main
       with:
         dry_run: false
