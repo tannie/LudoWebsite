@@ -192,7 +192,6 @@ Nintendo Switch (2017)
 6 Player
 --------
 
-* Just Dance 2023
 * Monopoly
 * Monopoly Madness
 * Worms W.M.D
@@ -207,6 +206,7 @@ Nintendo Switch (2017)
 * Catan
 * Cruis'n Blast
 * Death Squared
+* Heads Up! Phones Down Edition
 * Horizon Chase Turbo
 * Hotshot Racing
 * It came from space and ate our brains
@@ -214,6 +214,7 @@ Nintendo Switch (2017)
 * Overcooked
 * Overcooked 2
 * Pinball FX 3
+* Puyo Puyo Tetris 2
 * Tricky Towers
 * Unrailed!
 * Urban Flow
@@ -224,8 +225,12 @@ Nintendo Switch (2017)
 * Big Tournament Golf
 * Child of light
 * Death's hangover
+* Don't Starve Together
 * Dyadic
 * The Escapists 2
+* Figment 2: Creed Valley
+* HOT WHEELS UNLEASHED
+* Portal 2
 * Reverse Crawl
 * Spiritfarer
 * Tactical Mind
@@ -292,6 +297,7 @@ Playable on 29” Sony Trinitron CRT w/ original North American SNES
 * Super Mario World
 * Super Tennis
 * Tecmo Super Bowl
+* Tetris & Dr. Mario
 * Top Gear
 
 1 Player
