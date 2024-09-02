@@ -1,9 +1,9 @@
 .. title: Games: Ludo
 .. slug: games
 .. date: 2022-09-21 13:00:00 UTC-01:00
-.. tags: 
-.. link: 
-.. description: 
+.. tags:
+.. link:
+.. description:
 
 Ludo's game library features hits from many generations of video games from retro Pong, Super Nintendo and GameCube all the way up to modern Meta Quest 3 VR and Xbox Series S.
 
@@ -192,6 +192,7 @@ Nintendo Switch (2017)
 6 Player
 --------
 
+* Just Dance 2023
 * Monopoly
 * Monopoly Madness
 * Worms W.M.D
@@ -203,6 +204,7 @@ Nintendo Switch (2017)
 * Badland
 * Beat me!
 * Cake Bash
+* Catan
 * Cruis'n Blast
 * Death Squared
 * Horizon Chase Turbo
@@ -213,6 +215,7 @@ Nintendo Switch (2017)
 * Overcooked 2
 * Pinball FX 3
 * Tricky Towers
+* Unrailed!
 * Urban Flow
 
 2 Player
