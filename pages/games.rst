@@ -39,6 +39,7 @@ PC
 * Dokapon Kingdom Connect
 * Hotshot Racing
 * It's Quiz Time
+* Ninza
 * No Time to Relax
 * Pinball FX 3
 * Richman 11
@@ -114,35 +115,34 @@ Xbox Series S (2020)
 
 * Arkanoid Eternal Battle
 * Avicii Invector: Encore Edition
-* Brawlhalla
 * Cake Bash
 * Catan
 * Death Squared
 * Dirt 5 [GPU]
 * Doritos Crash Course
-* FIFA 22 [GPU]
-* Fuzion Frenzy
+* FIFA 23 [GPU]
+* Fuzion Frenzy [GPU]
 * Gang Beasts [GPU]
-* Goat Simulator [GPU]
+* Goat Simulator 3 [GPU]
 * GoldenEye 007 [GPU]
 * Guts 'N Goals
 * Horizon Chase Turbo
 * Hotshot Racing
 * Inertial Drift
 * Moving Out
-* Multiversus
 * NHL 94 Rewind [GPU]
-* Out of Space: Couch Edition
+* Out of Space: Couch Edition [GPU]
 * Overcooked 2 [GPU]
-* Pac-Man Museum+ [GPU]
 * Party Animals [GPU]
 * PGA Tour 2K23
 * Pinball FX 3
 * Puyo Puyo Tetris 2
 * Rocket League
 * Slipstream
+* SpeedRunners
 * SpiderHeck [GPU]
-* Teenage Mutant Ninja Turtles: Cowabunga Collection [GPU]
+* Teenage Mutant Ninja Turtles: Cowabunga Collection
+* Teenage Mutant Ninja Turtles: Shredder's Revenge [GPU]
 * Trials Fusion
 * Trials Rising
 * Tricky Towers
