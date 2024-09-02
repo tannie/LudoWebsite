@@ -186,6 +186,7 @@ Nintendo Switch (2017)
 * Brakes Are For Losers
 * Clusterpuck 99
 * Killer Queen Black
+* Runbow
 * Shipped
 * Virtua Racing (Sega Ages)
 
@@ -194,6 +195,7 @@ Nintendo Switch (2017)
 
 * Monopoly
 * Monopoly Madness
+* TowerFall
 * Worms W.M.D
 
 4 Player
@@ -215,6 +217,7 @@ Nintendo Switch (2017)
 * Overcooked 2
 * Pinball FX 3
 * Puyo Puyo Tetris 2
+* Train Traffic Manager
 * Tricky Towers
 * Unrailed!
 * Urban Flow
@@ -232,8 +235,11 @@ Nintendo Switch (2017)
 * HOT WHEELS UNLEASHED
 * Portal 2
 * Reverse Crawl
+* Spectrum
 * Spiritfarer
+* Suika Game
 * Tactical Mind
+* Tactical Mind 2
 * Trials Rising
 * Unravel Two
 * World of Goo
