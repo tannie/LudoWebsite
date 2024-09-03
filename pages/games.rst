@@ -77,8 +77,8 @@ Play on 2 VR headsets at Ludo
 
 * Beat Saber
 * Eleven Table Tennis (with table tennis grips!)
-* Hand Physics Lab
 * Keep Talking and Nobody Explodes
+* Microsoft Flight Simulator (on request)
 * Walkabout Minigolf
 
 Xbox Series S (2020)
