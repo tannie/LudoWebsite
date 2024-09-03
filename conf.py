@@ -376,14 +376,14 @@ COMPILERS = {
 NEW_POST_DATE_PATH = True
 
 # What format to use when creating posts with date paths?
-# Default is '%Y/%m/%d', other possibilities include '%Y' or '%Y/%m'. 
+# Default is '%Y/%m/%d', other possibilities include '%Y' or '%Y/%m'.
 NEW_POST_DATE_PATH_FORMAT = '%Y/%m/%d'
 
 # If this is set to True, the DEFAULT_LANG version will be displayed for
 # untranslated posts.
 # If this is set to False, then posts that are not translated to a language
 # LANG will not be visible at all in the pages in that language.
-SHOW_UNTRANSLATED_POSTS = True	
+SHOW_UNTRANSLATED_POSTS = True
 
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
@@ -1214,7 +1214,7 @@ COPY_SOURCES = False
 
 # By default, Nikola generates RSS files for the website and for tags, and
 # links to it.  Set this to False to disable everything RSS-related.
-# GENERATE_RSS = True
+GENERATE_RSS = False
 
 # By default, Nikola does not generates Atom files for indexes and links to
 # them. Generate Atom for tags by setting TAG_PAGES_ARE_INDEXES to True.
