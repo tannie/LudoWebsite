@@ -24,7 +24,6 @@ PC
 * Fibbage XL
 * Jackbox Party Pack 1, 3, 5, 7, 8, 9, 10
 * Party Golf
-* Towerfall Ascension
 
 6 Player
 --------
