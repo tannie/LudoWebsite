@@ -38,6 +38,7 @@ SUNDAY:
 =========== =====================
  8:00-10:00 Continental Breakfast
 10:00       Start of Open Gaming for Day Participants
+11:00       Group photo
 13:00       Lunch at `Goldenen Stern <https://www.zumgoldenenstern.de>`_ (German Restaurant)
 18:00-20:00 Continental Dinner
 23:30       End of Open Gaming for Day Participants
