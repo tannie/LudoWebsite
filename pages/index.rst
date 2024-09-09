@@ -1,4 +1,4 @@
-.. title: Ludo 2024
+.. title: Ludo
 .. slug: index
 .. date: 2012-03-30 23:00:00 UTC-03:00
 .. tags:
