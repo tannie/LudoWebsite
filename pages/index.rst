@@ -65,7 +65,7 @@ To get a feel of what kinds of games we tend to play, here's all the games we pl
 * Super Mario Bros (NES)
 * Super Mario Kart
 * TowerFall Ascension
-* Walkabout Minigolf
+* Walkabout Minigolf (VR)
 * Worms W.M.D.
 
 Games Played (Ludo 2023)
