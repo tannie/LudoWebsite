@@ -5,9 +5,11 @@
 .. link:
 .. description:
 
-Ludo is an event held at the Esperanto-Stacio in Halbe (just outside Berlin) on 6-9 September 2024. This will be an extended videogame weekend in which we'll play everything from modern to retro game systems. For example, we'll play VR together on the Meta Quest 3 and local multiplayer on the Xbox Series S. Enjoy a 2-player modern dance pad experience similar to Dance Dance Revolution. As for retro, we'll have systems from Pong to Nintendo GameCube. We also have a 4K projector on a 100" screen for an epic local multiplayer gaming experience that's hard to get anywhere else!
+Stay tuned for info about Ludo 2025!
 
-Special Guest: Russ from Retro Game Corps
+Ludo is an annual event held at the Esperanto-Stacio in Halbe (just outside Berlin) from 2021-2024. This is an extended videogame weekend where we play everything from modern to retro game systems. For example, we play VR together on the Meta Quest 3 and local multiplayer on the Xbox Series S. Enjoy a 2-player modern dance pad experience similar to Dance Dance Revolution. As for retro, we have systems from Pong to Nintendo GameCube. We also have a 4K projector on a 100" screen for an epic local multiplayer gaming experience that's hard to get anywhere else!
+
+2024 Special Guest: Russ from Retro Game Corps
 -----------------------------------------
 
 .. image:: /images/russ.thumbnail.jpg
@@ -19,7 +21,7 @@ Russ, also known as `Retro Game Corps
 
 Since he'll be flying in all the way from Hawaii, Ludo presents a **unique opportunity to meet him in Europe**, making it an unforgettable experience for gaming enthusiasts across the continent. Don’t miss out on the chance to learn from a true gaming aficionado!
 
-Special Guest: MashTec
+2024 Special Guest: MashTec
 ----------------------
 
 
@@ -31,10 +33,43 @@ Special Guest: MashTec
 
 As the pioneer who introduced EmulationStation and RetroArch to these handhelds through his explanation videos, MashTec’s influence quickly spread. Manufacturers like Anbernic and Powkiddy adopted these tools for their upcoming devices. But for Manuel, it’s not just about software—it’s about pushing boundaries, reviewing devices, and sharing improvements with the community.
 
+Games Played (Ludo 2024)
+========================
+
+To get a feel of what kinds of games we tend to play, here's all the games we played last time!
+
+* Arkanoid Eternal Battle
+* Beat Saber (VR)
+* Blather Round (Jackbox Party Pack 7)
+* Brakes Are For Losers
+* Cake Bash
+* Dr Mario
+* Dr Mario 64
+* Eleven Table Tennis (VR)
+* F-Zero GX
+* Fibbage 4 (Jackbox Party Pack 9)
+* Keep Talking and Nobody Explodes (VR)
+* Mario Kart 64
+* Mario Kart Double Dash
+* Moving Out
+* Nintendo World Championships
+* Pong (Arcade)
+* Puyo Puyo Tetris 2
+* Runbow
+* SEGA Virtua Racing
+* Shipped
+* Split the Room (Jackbox Party Pack 5)
+* Stepmania
+* Super Mario All Stars (Super Mario Bros 3)
+* Super Mario Bros (Game & Watch)
+* Super Mario Bros (NES)
+* Super Mario Kart
+* TowerFall Ascension
+* Walkabout Minigolf
+* Worms W.M.D.
+
 Games Played (Ludo 2023)
 ------------------------
-
-To get a feel of what we like to play, here's all the games we played last year!
 
 * Avicii Invector
 * Beat Saber (VR)
