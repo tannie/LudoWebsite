@@ -1,4 +1,0 @@
-Sitemap: https://ludo.events/sitemapindex.xml
-
-User-Agent: *
-Host: ludo.events
