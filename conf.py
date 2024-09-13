@@ -101,7 +101,7 @@ DEFAULT_LANG = "en"
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
    DEFAULT_LANG: "",
-#    "eo": "./eo",
+    "eo": "./eo",
 
     # Example for another language:
 #    "de": "./de",
@@ -153,13 +153,13 @@ NAVIGATION_LINKS = {
         ("/contact-form", "Contact/Impressum"),
 
     ),
-#        "eo": (
-#        ("/eo/", "Hejme"),
-##         ("/eo/news", "News"),
-#        ("/eo/registration", "Registration"),
-#        ("/eo/directions", "Directions"),
-#        ("/eo/contact-form", "Contact"),
-#    ),
+       "eo": (
+       ("/eo/", "Hejme"),
+#         ("/eo/news", "News"),
+       ("/eo/registration", "Registration"),
+       ("/eo/directions", "Directions"),
+       ("/eo/contact-form", "Contact"),
+   ),
 #            "de": (
 #        ("/de/", "Home"),
 ##         ("/de/news", "News"),

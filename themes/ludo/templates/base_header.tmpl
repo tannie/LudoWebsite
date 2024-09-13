@@ -6,7 +6,7 @@
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
 
- 
+
 
           <div id="navbarSupportedContent">
             <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
@@ -75,9 +75,9 @@
 
 {% macro html_translation_header() %}
     {% if translations|length > 1 %}
-        <div id="toptranslations">
+        <!-- div id="toptranslations">
             <h2>{{ messages("Languages:") }}</h2>
             {{ base.html_translations() }}
-        </div>
+        </div -->
     {% endif %}
 {% endmacro %}

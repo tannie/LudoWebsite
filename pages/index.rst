@@ -7,9 +7,10 @@
 
 **Stay tuned for info about Ludo 2025!**
 
-To stay updated, please subscribe to our newsletter:
+..
+ To stay updated, please subscribe to our newsletter:
 
-.. raw:: html
+ .. raw:: html
 
 		<script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
 	      <form action="https://app.convertkit.com/forms/7084018/subscriptions" class="seva-form formkit-form" method="post" data-sv-form="7084018" data-uid="57c35fdfbf" data-format="inline" data-version="5" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Success! Now check your email to confirm your subscription.&quot;,&quot;redirect_url&quot;:&quot;&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:true,&quot;url&quot;:&quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;5&quot;}" min-width="400 500 600 700 800">
@@ -198,6 +199,7 @@ To stay updated, please subscribe to our newsletter:
 	.formkit-form[data-uid="57c35fdfbf"][min-width~="800"]
 	.formkit-fields[data-stacked="false"]
 	.formkit-submit{-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;} </style></form>
+
 
 
 Ludo is an annual event held at the Esperanto-Stacio in Halbe (just outside Berlin) from 2021-2024. This is an extended videogame weekend where we play everything from modern to retro game systems. For example, we play VR together on the Meta Quest 3 and local multiplayer on the Xbox Series S. Enjoy a 2-player modern dance pad experience similar to Dance Dance Revolution. As for retro, we have systems from Pong to Nintendo GameCube. We also have a 4K projector on a 100" screen for an epic local multiplayer gaming experience that's hard to get anywhere else!
