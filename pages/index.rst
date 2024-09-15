@@ -17,7 +17,7 @@
           <p><input type="email" name="email" required placeholder="E-mail" /></p>
           <p><input type="text" name="name" placeholder="Name (optional)" /></p>
 
-        <p>
+        <p class="form-checkbox">
           <input id="605fe" type="checkbox" name="l" checked value="605fe192-d263-49d8-913e-49988f0b2790" />
           <label for="605fe">&nbsp;Ludo Updates</label><br /></p>
 
