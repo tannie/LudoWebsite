@@ -225,9 +225,11 @@ nav#contents.contents {
 .admonition {
   position: relative;
   padding: 0.75rem 1.25rem;
-  margin-bottom: 1rem;
+  margin: 2em auto 3em;
   border: 1px solid transparent;
   border-radius: 0.25rem;
+  min-width: 350px;
+  max-width: 50%;
 }
 
 .tip {
