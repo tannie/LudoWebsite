@@ -1,4 +1,4 @@
-.. title: Ludo
+.. title: Ludo 2024
 .. slug: index
 .. date: 2012-03-30 23:00:00 UTC-03:00
 .. tags:
@@ -7,31 +7,40 @@
 
 Ludo is an annual event held at the Esperanto-Stacio in Halbe (just outside Berlin) from 2021-2024. This is an extended videogame weekend where we play everything from modern to retro game systems. For example, we play VR together on the Meta Quest 3 and local multiplayer on the Xbox Series S. Enjoy a 2-player modern dance pad experience similar to Dance Dance Revolution. As for retro, we have systems from Pong to Nintendo GameCube. We also have a 4K projector on a 100" screen for an epic local multiplayer gaming experience that's hard to get anywhere else!
 
-.. tip:: **Stay tuned for info about Ludo 2025!**
+Games Played (Ludo 2024)
+========================
 
-  To stay updated, please subscribe to our newsletter:
+To get a feel of what kinds of games we tend to play, here's all the games we played last time!
 
- .. raw:: html
-
-		<form method="post" action="https://list.ludo.events/subscription/form" class="listmonk-form">
-          <div>
-          <input type="hidden" name="nonce" />
-          <p><input type="email" name="email" required placeholder="E-mail" /></p>
-          <p><input type="text" name="name" placeholder="Name (optional)" /></p>
-
-        <p class="form-checkbox">
-          <input id="605fe" type="checkbox" name="l" checked value="605fe192-d263-49d8-913e-49988f0b2790" />
-          <label for="605fe">&nbsp;Ludo Updates</label><br /></p>
-
-        <p><input type="submit" value="Subscribe" /></p>
-    </div>
-	</form>
-
-Previous Ludo Events
-====================
-
- * `2024 <2024>`_
- * `2023 <2023>`_
+* Arkanoid Eternal Battle
+* Beat Saber (VR)
+* Blather Round (Jackbox Party Pack 7)
+* Brakes Are For Losers
+* Cake Bash
+* Dr Mario
+* Dr Mario 64
+* Eleven Table Tennis (VR)
+* F-Zero GX
+* Fibbage 4 (Jackbox Party Pack 9)
+* Keep Talking and Nobody Explodes (VR)
+* Mario Kart 64
+* Mario Kart Double Dash
+* Moving Out
+* Nintendo World Championships
+* Pong (Arcade)
+* Puyo Puyo Tetris 2
+* Runbow
+* SEGA Virtua Racing
+* Shipped
+* Split the Room (Jackbox Party Pack 5)
+* Stepmania
+* Super Mario All Stars (Super Mario Bros 3)
+* Super Mario Bros (Game & Watch)
+* Super Mario Bros (NES)
+* Super Mario Kart
+* TowerFall Ascension
+* Walkabout Minigolf (VR)
+* Worms W.M.D.
 
 2024 Special Guest: Russ from Retro Game Corps
 ----------------------------------------------
@@ -56,6 +65,7 @@ Since he'll be flying in all the way from Hawaii, Ludo presents a **unique oppor
 `MashTec <https://manuelschoeneberge2.wixsite.com/meinewebsite>`_ embarked on a journey into the world of retro gaming handhelds in late 2019 and early 2020. Starting with the RG350—a popular clone of the GCWzero—he delved into the rabbit hole of these nostalgic devices. His familiarity with Linux from work led him to share his findings on YouTube, creating the `MashTec channel <https://www.youtube.com/@MashTec>`_.
 
 As the pioneer who introduced EmulationStation and RetroArch to these handhelds through his explanation videos, MashTec’s influence quickly spread. Manufacturers like Anbernic and Powkiddy adopted these tools for their upcoming devices. But for Manuel, it’s not just about software—it’s about pushing boundaries, reviewing devices, and sharing improvements with the community.
+
 
 
 .. youtube:: LCl6HQtssRs
