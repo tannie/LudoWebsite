@@ -10,9 +10,9 @@ Save the dates!
 
 The next Ludo will take place:
 
-12-15 September 2025 (English)
+12-15 September 2025 (in English)
 
-5-8 September 2025 (Esperanto)
+5-8 September 2025 (in Esperanto)
 
 What is Ludo?
 =============
