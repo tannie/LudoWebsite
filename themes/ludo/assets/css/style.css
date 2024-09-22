@@ -1,6 +1,7 @@
 /* @override
 	http://127.0.0.1:8000/assets/css/style.css
-	https://ludo.events/assets/css/style.css */
+	https://ludo.events/assets/css/style.css
+	http://127.0.0.1:8000/assets/css/theme.css */
 
 body {
   font-family: 'Raleway', sans-serif;
@@ -38,6 +39,38 @@ body {
 	
 	display: none;
 }
+
+.clear {
+	clear:  both;
+}
+
+.float-right.tip {
+	width: 45%;
+	float: left !important;
+	padding: 15px;
+	min-width: 300px;
+	align-content: center;
+	align-items: center;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-top: -15px;
+}
+
+.float-right.tip h2 {
+	font-size: large;
+	font-weight: bold;
+}
+
+.float-left {
+	width: 55%;
+	float: left;
+		min-width: 300px;
+		margin-bottom: 15px;
+
+}
+
 .heading_container {
   display: -webkit-box;
   display: -ms-flexbox;
