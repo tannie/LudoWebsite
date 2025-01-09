@@ -144,17 +144,17 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/", "Home"),
+        ("", "Home"),
 #         ("/news", "News"),
-        ("/schedule", "Schedule"),
-        ("/registration", "Registration"),
-        ("/directions", "Location + Directions"),
-        ("/games", "Games"),
-        ("/contact-form", "Contact/Impressum"),
+        ("schedule", "Schedule"),
+        ("registration", "Registration"),
+        ("directions", "Location + Directions"),
+        ("games", "Games"),
+        ("contact-form", "Contact/Impressum"),
 
     ),
         "eo": (
-       ("/eo/", "Hejme"),
+       ("", "Hejme"),
 # #         ("/eo/news", "News"),
         ("/schedule", "Programo"),
         ("/registration", "Registrado"),

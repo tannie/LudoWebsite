@@ -64,7 +64,7 @@
             </ul>
         {% else %}
             {% if rel_link(permalink, url) == "#" %}
-                <li class="active"><a href="{{ _link("root", None, lang) }}{{ permalink }}">{{ text }}<span class="sr-only"> {{ messages("(active)", lang) }}</span></a></li>
+                <li class="active"><a href="{{ _link("root", None, lang) }}{{ url }}">{{ text }}<span class="sr-only"> {{ messages("(active)", lang) }}</span></a></li>
             {% else %}
                 <li class="iets"><a href="{{ _link("root", None, lang) }}{{ url }}">{{ text }}</a></li>
             {% endif %}
