@@ -13,12 +13,12 @@ Vi rajtas alveni pli frue vendrede, sed sciu, ke ne ĉio pretas por ludi antaŭ 
 
 ========= ===========
 VENDREDO:
--------------------
-======= ===========
+---------------------
+======= =============
 18:00   Ludo komenciĝas
 19:00   Vespermanĝo (Anoncota)
 23:30   Fino de Libera Ludado por Tagpartoprenantoj
-======= ===========
+======= =============
 
 ========= =====================
 SABATO:
@@ -33,7 +33,7 @@ SABATO:
 23:30       Fino de Libera Ludado por Tagpartoprenantoj
 =========== =====================
 
-======== =====================
+======== ========================
 DIMANĈO:
 ---------------------------------
 =========== =====================
