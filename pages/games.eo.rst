@@ -1,4 +1,4 @@
-.. title: Games: Ludo
+.. title: Ludbiblioteko
 .. slug: games
 .. date: 2025-01-09 13:00:00 UTC-01:00
 .. tags:

@@ -1,4 +1,4 @@
-.. title: Contact Form
+.. title: Kontaktformularo
 .. slug: contact-form
 .. date: 2022-09-08 12:55:21 UTC+02:00
 .. tags: 
