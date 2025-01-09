@@ -6,18 +6,17 @@
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
 
-
-
           <div id="navbarSupportedContent">
             <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
         {{ html_navigation_links() }}
 
             </div>
           </div>
+                  {{ html_translation_header() }}
+
         </nav>
       </div>
        {{ html_site_title() }}
-        {{ html_translation_header() }}
         {% if search_form %}
             <div class="searchform" role="search">
                 {{ search_form }}
@@ -65,9 +64,9 @@
             </ul>
         {% else %}
             {% if rel_link(permalink, url) == "#" %}
-                <li class="active"><a href="{{ _link("root", None, langname) }}{{ permalink }}">{{ text }}<span class="sr-only"> {{ messages("(active)", lang) }}</span></a></li>
+                <li class="active"><a href="{{ _link("root", None, lang) }}{{ permalink }}">{{ text }}<span class="sr-only"> {{ messages("(active)", lang) }}</span></a></li>
             {% else %}
-                <li class="iets"><a href="{{ _link("root", None, langname) }}{{ url }}">{{ text }}</a></li>
+                <li class="iets"><a href="{{ _link("root", None, lang) }}{{ url }}">{{ text }}</a></li>
             {% endif %}
         {% endif %}
     {% endfor %}
@@ -75,9 +74,9 @@
 
 {% macro html_translation_header() %}
     {% if translations|length > 1 %}
-        <!-- div id="toptranslations">
+        <div id="toptranslations">
             <h2>{{ messages("Languages:") }}</h2>
             {{ base.html_translations() }}
-        </div -->
+        </div>
     {% endif %}
 {% endmacro %}

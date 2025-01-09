@@ -36,8 +36,8 @@ Restu ĝisdata pri Ludo 2025!
           <p><input type="text" name="name" placeholder="Nomo (nedeviga)" /></p>
 
         <p class="form-checkbox">
-          <input id="605fe" type="checkbox" name="l" checked value="605fe192-d263-49d8-913e-49988f0b2790" />
-          <label for="605fe">&nbsp;Ludo Updates</label><br /></p>
+      <input id="d657d" type="checkbox" name="l" checked value="d657d0b2-3166-4437-bb7b-cbf3fdb7c1c6" />
+      <label for="d657d">Ludo Novaĵo</label>
 
         <p><input type="submit" value="Aboni" /></p>
     </div>
