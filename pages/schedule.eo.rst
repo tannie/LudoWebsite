@@ -11,7 +11,7 @@ Bonvenon al la Stacio: ni havas amuzon kaj ludojn! La horaro estas ŝanĝebla.
 
 Vi rajtas alveni pli frue vendrede, sed sciu, ke ne ĉio pretas por ludi antaŭ la 18:00.
 
-========= ===========
+======= ============
 VENDREDO:
 ---------------------
 ======= =============
@@ -20,7 +20,7 @@ VENDREDO:
 23:30   Fino de Libera Ludado por Tagpartoprenantoj
 ======= =============
 
-========= =======================
+=========== =====================
 SABATO:
 ---------------------------------
 =========== =====================
@@ -33,7 +33,7 @@ SABATO:
 23:30       Fino de Libera Ludado por Tagpartoprenantoj
 =========== =====================
 
-======== ========================
+=========== =====================
 DIMANĈO:
 ---------------------------------
 =========== =====================
