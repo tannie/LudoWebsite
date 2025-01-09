@@ -9,6 +9,10 @@ body {
   background-color: #ffffff;
 }
 
+.metadata {
+	margin-bottom: 1rem;
+}
+
 .layout_padding {
   padding-top: 120px;
   padding-bottom: 120px;
