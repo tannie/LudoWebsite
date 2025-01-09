@@ -153,13 +153,15 @@ NAVIGATION_LINKS = {
         ("/contact-form", "Contact/Impressum"),
 
     ),
-#        "eo": (
-#        ("/eo/", "Hejme"),
+        "eo": (
+       ("/eo/", "Hejme"),
 # #         ("/eo/news", "News"),
-#        ("/eo/registration", "Registration"),
-#        ("/eo/directions", "Directions"),
-#        ("/eo/contact-form", "Contact"),
-#    ),
+                ("/schedule", "Programo"),
+        ("/eo/registration", "Registrado"),
+        ("/directions", "Loko +  Vojoj"),
+                ("/games", "Ludoj"),
+        ("/eo/contact-form", "Kontakto/Impressum"),
+    ),
 #            "de": (
 #        ("/de/", "Home"),
 ##         ("/de/news", "News"),
