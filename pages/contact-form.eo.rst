@@ -17,4 +17,4 @@ Uzu nian kontaktformularon sube por sendi al ni mesaĝon aŭ sendu al ni retpoŝ
 | 
 | 
 
-Ludo estas organizata de Tanja Orme kaj Chuck Smith.
+Ludo estas organizata de Tanja Orme kaj Charles "Chuck" Smith.
