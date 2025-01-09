@@ -154,11 +154,11 @@ NAVIGATION_LINKS = {
 
     ),
         "eo": (
-       ("", "Hejme"),
+       ("", "Hejmo"),
 # #         ("/eo/news", "News"),
         ("/schedule", "Programo"),
-        ("/registration", "Registrado"),
-        ("/directions", "Loko +  Vojoj"),
+        ("/registration", "Aliĝado"),
+        ("/directions", "Loko + Kiel atingi"),
         ("/games", "Ludoj"),
         ("/contact-form", "Kontakto/Impressum"),
     ),
