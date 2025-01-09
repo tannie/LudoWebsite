@@ -1,4 +1,4 @@
-.. title: Registration: Ludo (12-15 Sep 2025)
+.. title: Registration: Ludo (5-8 Sep 2025)
 .. slug: registration
 .. date: 2025-01-09 15:00:00 UTC-01:00
 .. tags:
