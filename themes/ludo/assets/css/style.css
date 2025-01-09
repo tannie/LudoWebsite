@@ -89,6 +89,7 @@ body {
   font-weight: bold;
 }
 
+[role=doc-toc],
 nav#contents.contents {
 
   float: right;
