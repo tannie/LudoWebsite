@@ -28,7 +28,6 @@ SABATO:
 10:00       Komenco de Libera Ludado por Tagpartoprenantoj
 12:00       Grupfoto
 13:00       Tagmanĝo (Restoracio anoncota)
-15:30       Cross-Gen Mario Kart Tournament
 18:00-20:00 Vespermanĝeto
 23:30       Fino de Libera Ludado por Tagpartoprenantoj
 =========== =====================
