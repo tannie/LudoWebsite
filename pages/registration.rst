@@ -61,6 +61,6 @@ Paypal
 Register now!
 -------------
 
-Overnight guests can now register here: `Registration Form for Overnight Visitors <https://forms.gle/NqsyJWpRtXrkVvTY6">`_
+Overnight guests can now register here: `Registration Form for Overnight Visitors <https://forms.gle/NqsyJWpRtXrkVvTY6>`_
 
 Registration form for day participants coming soon!
