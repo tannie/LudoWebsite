@@ -7,8 +7,8 @@
 
 .. class:: float-left
 
-Save the dates!
-===============
+Register now!
+=============
 
 The next Ludo will take place:
 
