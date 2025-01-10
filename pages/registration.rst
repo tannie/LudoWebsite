@@ -23,7 +23,7 @@ The local supermarket is right across the track and we have a fully functional k
 Day Visitors
 ============
 
-We sell tickets online via the EventIM platform. If necessary, you can also pay in cash at the door.
+We will start selling day tickets online closer to the event. If necessary, you can also pay in cash at the door.
 
 Links coming soon!
 
@@ -39,7 +39,7 @@ Links coming soon!
 Pre-payment (overnight guests only)
 ===================================
 
-Due to many last-minute cancellations last year, we are now requiring pre-payment to receive your bed during Ludo. Please pay at least a €40 non-refundable deposit or pay in full. If you pay in full, you can still receive a full refund minus the €40 prepayment if you cannot attend Ludo. Please pay via one of the following methods after you register:
+Due to many last-minute cancellations last year, we are now requiring pre-payment to receive your bed during Ludo. Please pay at least a €50 non-refundable deposit or pay in full. If you pay in full, you can still receive a full refund minus the €50 prepayment if you cannot attend Ludo. Please pay via one of the following methods after you register:
 
 German Bank Transfer (Preferred)
 --------------------------------
@@ -54,6 +54,9 @@ Paypal
 
 **Email:** chuck (@) chuck (dot) at
 
-.. raw:: html
+Register now!
+-------------
 
-	<iframe src="https://docs.google.com/forms/d/1Mv5qfJo2xQEVaZVfdOFI-Q_Biu1j9Nbkv8Kup8GqpbM/viewform?embedded=true"  scrolling="no"  frameborder="0" marginheight="0" class="embedded-signup" marginwidth="0">Loading…</iframe>
+Overnight guests can now register here: `Registration Form for Overnight Visitors <https://forms.gle/NqsyJWpRtXrkVvTY6">`_
+
+Registration form for day participants coming soon!
