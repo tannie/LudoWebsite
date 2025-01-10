@@ -41,12 +41,12 @@ Pre-payment (overnight guests only)
 
 Due to many last-minute cancellations last year, we are now requiring pre-payment to receive your bed during Ludo. Please pay at least a €40 non-refundable deposit or pay in full. If you pay in full, you can still receive a full refund minus the €40 prepayment if you cannot attend Ludo. Please pay via one of the following methods after you register:
 
-German Bank Transfer
---------------------
+German Bank Transfer (Preferred)
+--------------------------------
 
 | **Name:** Charles Sterling Smith
-| **IBAN:** DE23 1001 1001 2626 0839 89
-| **BIC:** NTSBDEB1XXX
+| **IBAN:** DE75 1001 1001 2314 1783 89
+| **BIC:** NTSBDE1XXX
 |
 
 Paypal
@@ -56,4 +56,4 @@ Paypal
 
 .. raw:: html
 
-	<!-- iframe src="https://docs.google.com/forms/d/1HIOz6i-Z9akqlG9cJoiI2rILIEb_sMsf0ECSpxLwHyg/viewform?embedded=true"  scrolling="no"  frameborder="0" marginheight="0" class="embedded-signup" marginwidth="0">Loading…</iframe -->
+	<iframe src="https://docs.google.com/forms/d/1Mv5qfJo2xQEVaZVfdOFI-Q_Biu1j9Nbkv8Kup8GqpbM/viewform?embedded=true"  scrolling="no"  frameborder="0" marginheight="0" class="embedded-signup" marginwidth="0">Loading…</iframe>
