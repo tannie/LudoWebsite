@@ -72,13 +72,9 @@ body {
 	font-weight: bold;
 }
 
-.float-left {
-	width: 55%;
-	float: left;
-		min-width: 300px;
-		margin-bottom: 15px;
 
-}
+
+
 
 .heading_container {
   display: -webkit-box;
@@ -129,6 +125,18 @@ nav#contents.contents {
     width: 320px;
     height: 180px;
   }
+  
+  .float-left {
+	width: 95%;
+	float: none;
+	min-width: 100%;
+	margin-bottom: 15px;
+}
+
+.float-right.tip {
+	width: 45%;
+	float: none !important;
+}
 }
 
 @media (min-width: 768px) {
@@ -137,6 +145,17 @@ nav#contents.contents {
     height: 270px;
 
   }
+
+  .float-left {
+	width: 75%;
+	float: left;
+	min-width: 50%;
+	margin-bottom: 15px;
+}
+
+.float-right.tip {
+	float: left !important;
+}
 }
 
 @media (min-width: 992px) {
@@ -145,6 +164,19 @@ nav#contents.contents {
     height: 360px;
 
   }
+  
+  .float-left {
+	width: 55%;
+	float: left;
+	min-width: 50%;
+	margin-bottom: 15px;
+}
+
+.float-right.tip {
+	float: left !important;
+	max-width: 300px;
+	margin-left: 15px;
+}
 }
 
 @media (min-width: 1200px) {
@@ -153,6 +185,9 @@ nav#contents.contents {
     height: 440px;
 
   }
+    .float-left {
+	max-width: 95%;
+}
 }
 
 .embedded-signup {
