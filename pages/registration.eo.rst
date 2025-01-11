@@ -22,6 +22,7 @@ Tranoktaj gastoj povas nun aliĝi ĉi tie: `Aliĝilo por Tranoktantoj <https://f
 
 Aliĝilo por tagpartoprenantoj venos baldaŭ!
 
+.. class:: clear
 
 **MANĜ':** De vendredo ĝis lundo ni proponos simplajn manĝojn por matenmanĝo kaj vespermanĝo por niaj tranoktaj gastoj. Temas pri manĝetoj kaj pano kun viando, fromaĝo kaj ŝmiraĵoj, por ke vi povu reveni al ludado kiel eble plej rapide! Tagmanĝo estos ĉe lokaj restoracioj (ne inkluzivita en la prezo). La loka superbazaro estas nur 4 minutojn piede for meze de la eventejoj kaj ni havas plurajn kuirejojn, kie eblas prepari proprajn manĝojn. Tio ankaŭ ebligas resti ene kaj fari niajn proprajn tagmanĝojn aŭ prepari noktomezan manĝeton por nutri nian ludadon.
 
