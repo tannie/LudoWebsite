@@ -48,7 +48,7 @@ body {
 	clear:  both;
 }
 
-section#register-now.tip {
+.register.tip {
 	padding: 25px;
 }
 
