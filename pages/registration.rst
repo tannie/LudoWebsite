@@ -13,6 +13,13 @@
 | REPEAT
 |
 
+.. tip:: **Register now!**
+
+	Overnight guests can now register here: 
+	
+	`Registration Form for Overnight Visitors <https://forms.gle/NqsyJWpRtXrkVvTY6>`_
+
+
 **EAT:** Fri-Mon we will offer simple meals for breakfast and dinner for our overnight guests, consisting of snacks and bread with lunchmeat, cheese and spreads to get you back to gaming as quickly as possible! Lunch will be organized at local restaurants (not included in the price).
 The local supermarket is right across the track and we have a fully functional kitchen where we can prepare our own meals. This also makes it possible to stay in and make our own lunches, or prepare a late-night snack to fuel our gaming.
 
@@ -23,7 +30,7 @@ The local supermarket is right across the track and we have a fully functional k
 Day Visitors
 ============
 
-We sell tickets online via the EventIM platform. If necessary, you can also pay in cash at the door.
+We will start selling day tickets online closer to the event. If necessary, you can also pay in cash at the door.
 
 Links coming soon!
 
@@ -39,14 +46,14 @@ Links coming soon!
 Pre-payment (overnight guests only)
 ===================================
 
-Due to many last-minute cancellations last year, we are now requiring pre-payment to receive your bed during Ludo. Please pay at least a €40 non-refundable deposit or pay in full. If you pay in full, you can still receive a full refund minus the €40 prepayment if you cannot attend Ludo. Please pay via one of the following methods after you register:
+Due to many last-minute cancellations in previous years, we are now requiring pre-payment to receive your bed during Ludo. Please pay at least a €50 non-refundable deposit or pay in full. If you pay in full, you can still receive a full refund minus the €50 prepayment if you cannot attend Ludo. Please pay via one of the following methods after you register:
 
-German Bank Transfer
---------------------
+German Bank Transfer (Preferred)
+--------------------------------
 
 | **Name:** Charles Sterling Smith
-| **IBAN:** DE23 1001 1001 2626 0839 89
-| **BIC:** NTSBDEB1XXX
+| **IBAN:** DE75 1001 1001 2314 1783 89
+| **BIC:** NTSBDE1XXX
 |
 
 Paypal
@@ -54,6 +61,11 @@ Paypal
 
 **Email:** chuck (@) chuck (dot) at
 
-.. raw:: html
+.. class:: tip register
 
-	<!-- iframe src="https://docs.google.com/forms/d/1HIOz6i-Z9akqlG9cJoiI2rILIEb_sMsf0ECSpxLwHyg/viewform?embedded=true"  scrolling="no"  frameborder="0" marginheight="0" class="embedded-signup" marginwidth="0">Loading…</iframe -->
+Register now!
+-------------
+
+Overnight guests can now register here: `Registration Form for Overnight Visitors <https://forms.gle/NqsyJWpRtXrkVvTY6>`_
+
+Registration form for day participants coming soon!
