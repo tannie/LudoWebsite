@@ -13,9 +13,12 @@
 | REPEAT
 |
 
-.. class:: center
+.. tip:: **Register now!**
 
-**Registration for overnight guests now available!**
+	Overnight guests can now register here: 
+	
+	`Registration Form for Overnight Visitors <https://forms.gle/NqsyJWpRtXrkVvTY6>`_
+
 
 **EAT:** Fri-Mon we will offer simple meals for breakfast and dinner for our overnight guests, consisting of snacks and bread with lunchmeat, cheese and spreads to get you back to gaming as quickly as possible! Lunch will be organized at local restaurants (not included in the price).
 The local supermarket is right across the track and we have a fully functional kitchen where we can prepare our own meals. This also makes it possible to stay in and make our own lunches, or prepare a late-night snack to fuel our gaming.
