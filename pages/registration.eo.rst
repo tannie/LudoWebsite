@@ -13,6 +13,16 @@
 | RIPET'
 |
 
+.. class:: tip register
+
+Aliĝu nun!
+----------
+
+Tranoktaj gastoj povas nun aliĝi ĉi tie: `Aliĝilo por Tranoktantoj <https://forms.gle/La1v5ximeEDsdWGn7>`_
+
+Aliĝilo por tagpartoprenantoj venos baldaŭ!
+
+
 **MANĜ':** De vendredo ĝis lundo ni proponos simplajn manĝojn por matenmanĝo kaj vespermanĝo por niaj tranoktaj gastoj. Temas pri manĝetoj kaj pano kun viando, fromaĝo kaj ŝmiraĵoj, por ke vi povu reveni al ludado kiel eble plej rapide! Tagmanĝo estos ĉe lokaj restoracioj (ne inkluzivita en la prezo). La loka superbazaro estas nur 4 minutojn piede for meze de la eventejoj kaj ni havas plurajn kuirejojn, kie eblas prepari proprajn manĝojn. Tio ankaŭ ebligas resti ene kaj fari niajn proprajn tagmanĝojn aŭ prepari noktomezan manĝeton por nutri nian ludadon.
 
 **DORM':** Ni havas nur 35 litojn (2-4 litoj po ĉambro kun aldonita duŝo kaj banĉambro). Registriĝu kiel eble plej rapide por rezervi vian lokon! Estas gastejo-stila loĝado surloke kun 2-4 litoj po ĉambro kaj plej multaj havas banĉambron/duŝon alkroĉita al la ĉambro. La Esperanto-Stacio havas 10 litojn kaj la trankvila gastejo havas 25 litojn.
