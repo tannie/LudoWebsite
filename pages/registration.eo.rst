@@ -56,6 +56,6 @@ Paypal
 Aliĝu nun!
 ----------
 
-Tranoktaj gastoj povas nun aliĝi ĉi tie: `Registration Form for Overnight Visitors <https://forms.gle/NqsyJWpRtXrkVvTY6>`_
+Tranoktaj gastoj povas nun aliĝi ĉi tie: `Aliĝilo por Tranoktantoj <https://forms.gle/La1v5ximeEDsdWGn7>`_
 
 Aliĝilo por tagpartoprenantoj venos baldaŭ!
