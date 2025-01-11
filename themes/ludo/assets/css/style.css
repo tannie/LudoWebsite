@@ -1,6 +1,7 @@
 /* @override
 	http://127.0.0.1:8000/assets/css/style.css
 	https://ludo.events/assets/css/style.css
+	http://localhost:8000/assets/css/style.css
 */
 
 body {
@@ -270,7 +271,7 @@ nav#contents.contents {
   margin: 2em auto 3em;
   border: 1px solid transparent;
   border-radius: 0.25rem;
-  min-width: 350px;
+  min-width: 250px !important;
   max-width: 50%;
 }
 
