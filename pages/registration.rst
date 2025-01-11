@@ -43,7 +43,7 @@ Links coming soon!
 Pre-payment (overnight guests only)
 ===================================
 
-Due to many last-minute cancellations last year, we are now requiring pre-payment to receive your bed during Ludo. Please pay at least a €50 non-refundable deposit or pay in full. If you pay in full, you can still receive a full refund minus the €50 prepayment if you cannot attend Ludo. Please pay via one of the following methods after you register:
+Due to many last-minute cancellations in previous years, we are now requiring pre-payment to receive your bed during Ludo. Please pay at least a €50 non-refundable deposit or pay in full. If you pay in full, you can still receive a full refund minus the €50 prepayment if you cannot attend Ludo. Please pay via one of the following methods after you register:
 
 German Bank Transfer (Preferred)
 --------------------------------

@@ -19,7 +19,43 @@
 
 **LUD':** Plena aliro al niaj ludkonzoloj, de retroa Pong, Super Nintendo kaj GameCube ĝis modernaj Quest 3 VR kaj Xbox Series S. Krome ĉe la gastejo, ni ankaŭ havas diversajn eksterdomajn lud-aktivaĵojn, inkluzive de ŝako, tabloteniso, volejbalo, korbopilko, kaj eĉ malgranda futbalkampo apude sur la lerneja tereno.
 
-Aliĝilo
-=======
+Tagvizitantoj
+=============
 
-Bonvolu pacienci, ĉar la aliĝilo ankoraŭ ne pretas.
+Ni ekvendos tagbiletojn pli proksime al la evento. Se necesas, ankaŭ eblas pagi per kontanta mono ĉe la pordo.
+
+Ligiloj baldaŭ venos!
+
+..
+		`Saturday Day Pass <link://slug/saturday_registration>`_
+		remove the .. and this line to enable the link
+
+..
+		`Sunday Day Pass <link://slug/sunday_registration>`_
+		remove the .. and this line to enable the link
+
+
+Antaŭpagoj (nur por tranoktantoj)
+=================================
+
+Pro multaj lastminutaj nuligoj dum antaŭaj eventoj, ni nun postulas antaŭpagon por rezervi vian liton dum Ludo. Bonvolu pagi almenaŭ €50 (nerepagebla) aŭ pagi plene. Se vi pagas plene, vi daŭre povas ricevi plenan repagon minus la €50 antaŭpago se vi ne povas ĉeesti Ludon. Bonvolu pagi per unu el la jenaj metodoj post kiam vi aliĝas:
+
+Germana Bankpago (Preferita)
+----------------------------
+
+| **Nomo:** Charles Sterling Smith
+| **IBAN:** DE75 1001 1001 2314 1783 89
+| **BIC:** NTSBDE1XXX
+|
+
+Paypal
+------
+
+**Email:** chuck (@) chuck (dot) at
+
+Aliĝu nun!
+----------
+
+Tranoktaj gastoj povas nun aliĝi ĉi tie: `Registration Form for Overnight Visitors <https://forms.gle/NqsyJWpRtXrkVvTY6>`_
+
+Aliĝilo por tagpartoprenantoj venos baldaŭ!
