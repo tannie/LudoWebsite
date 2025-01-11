@@ -58,6 +58,8 @@ Paypal
 
 **Email:** chuck (@) chuck (dot) at
 
+.. class:: tip register
+
 Register now!
 -------------
 

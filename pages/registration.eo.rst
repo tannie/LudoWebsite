@@ -53,6 +53,8 @@ Paypal
 
 **Email:** chuck (@) chuck (dot) at
 
+.. class:: tip register
+
 Aliĝu nun!
 ----------
 
