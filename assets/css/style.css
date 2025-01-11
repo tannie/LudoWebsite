@@ -1,7 +1,7 @@
 /* @override
 	http://127.0.0.1:8000/assets/css/style.css
 	https://ludo.events/assets/css/style.css
-	http://127.0.0.1:8000/assets/css/theme.css */
+*/
 
 body {
   font-family: 'Raleway', sans-serif;
@@ -46,6 +46,10 @@ body {
 
 .clear {
 	clear:  both;
+}
+
+section#register-now.tip {
+	padding: 25px;
 }
 
 .float-right.tip {
