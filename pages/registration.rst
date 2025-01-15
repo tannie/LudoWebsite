@@ -51,6 +51,8 @@ Due to many last-minute cancellations in previous years, we are now requiring pr
 German Bank Transfer (Preferred)
 --------------------------------
 
+[Note: new IBAN this year!]
+
 | **Name:** Charles Sterling Smith
 | **IBAN:** DE75 1001 1001 2314 1783 89
 | **BIC:** NTSBDE1XXX

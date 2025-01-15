@@ -50,6 +50,8 @@ Pro multaj lastminutaj nuligoj dum antaŭaj eventoj, ni nun postulas antaŭpagon
 Germana Bankpago (Preferita)
 ----------------------------
 
+[Rimarku la novan IBAN ĉi-jare!]
+
 | **Nomo:** Charles Sterling Smith
 | **IBAN:** DE75 1001 1001 2314 1783 89
 | **BIC:** NTSBDE1XXX
