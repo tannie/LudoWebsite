@@ -50,3 +50,38 @@ Kio estas Ludo?
 ===============
 
 Ludo estas ĉiujara evento, kiu okazas en la Esperanto-Stacio en Halbe (iomete ekster Berlino) de 2021 ĝis 2024 (sed en Esperanto nur en 2021). Ĝi estas videoluda semajnfinego, kie ni ludas ĉion, de modernaj ĝis retro-aj ludkonzoloj. Ekzemple, ni ludas VR-n kune kun la Meta Quest 3 kaj multope per la Xbox Series S. Ĝuu 2-opan modernan dancmaton, simile al Dance Dance Revolution. Rilate al retro, ni havas konzolojn de Pong ĝis Nintendo GameCube. Ni ankaŭ havas 4K-projekciilon sur 100-cola ekrano por epopea loka multopa sperto, kiun oni malfacile povas sperti aliloke... speciale en Esperanto!
+
+Luditaj dum Ludo 2024
+=====================
+
+Por ricevi impreson pri la tipoj de ludoj, kiujn ni emas ludi, jen ĉiuj ludoj, kiujn ni ludis la lastan fojon kiam la evento okazis en la angla!
+
+* Arkanoid Eternal Battle
+* Beat Saber (VR)
+* Blather Round (Jackbox Party Pack 7)
+* Brakes Are For Losers
+* Cake Bash
+* Dr Mario
+* Dr Mario 64
+* Eleven Table Tennis (VR)
+* F-Zero GX
+* Fibbage 4 (Jackbox Party Pack 9)
+* Keep Talking and Nobody Explodes (VR)
+* Mario Kart 64
+* Mario Kart Double Dash
+* Moving Out
+* Nintendo World Championships
+* Pong (Arcade)
+* Puyo Puyo Tetris 2
+* Runbow
+* SEGA Virtua Racing
+* Shipped
+* Split the Room (Jackbox Party Pack 5)
+* Stepmania
+* Super Mario All Stars (Super Mario Bros 3)
+* Super Mario Bros (Game & Watch)
+* Super Mario Bros (NES)
+* Super Mario Kart
+* TowerFall Ascension
+* Walkabout Minigolf (VR)
+* Worms W.M.D.

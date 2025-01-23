@@ -48,13 +48,46 @@ What is Ludo?
 
 Ludo is an annual event held at the Esperanto-Stacio in Halbe (just outside Berlin) from 2021-2024. This is an extended videogame weekend where we play everything from modern to retro game systems. For example, we play VR together on the Meta Quest 3 and local multiplayer on the Xbox Series S. Enjoy a 2-player modern dance pad experience similar to Dance Dance Revolution. As for retro, we have systems from Pong to Nintendo GameCube. We also have a 4K projector on a 100" screen for an epic local multiplayer gaming experience that's hard to get anywhere else!
 
-
-
 Previous Ludo Events
 ====================
 
  * `2024 <2024>`_
  * `2023 <2023>`_
+ 
+Games Played (Ludo 2024)
+========================
+
+To get a feel of what kinds of games we tend to play, here's all the games we played last time!
+
+* Arkanoid Eternal Battle
+* Beat Saber (VR)
+* Blather Round (Jackbox Party Pack 7)
+* Brakes Are For Losers
+* Cake Bash
+* Dr Mario
+* Dr Mario 64
+* Eleven Table Tennis (VR)
+* F-Zero GX
+* Fibbage 4 (Jackbox Party Pack 9)
+* Keep Talking and Nobody Explodes (VR)
+* Mario Kart 64
+* Mario Kart Double Dash
+* Moving Out
+* Nintendo World Championships
+* Pong (Arcade)
+* Puyo Puyo Tetris 2
+* Runbow
+* SEGA Virtua Racing
+* Shipped
+* Split the Room (Jackbox Party Pack 5)
+* Stepmania
+* Super Mario All Stars (Super Mario Bros 3)
+* Super Mario Bros (Game & Watch)
+* Super Mario Bros (NES)
+* Super Mario Kart
+* TowerFall Ascension
+* Walkabout Minigolf (VR)
+* Worms W.M.D.
 
 2024 Special Guest: Russ from Retro Game Corps
 ----------------------------------------------
