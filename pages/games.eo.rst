@@ -62,6 +62,7 @@ PC
 * Atari 50
 * Blood Bowl 2
 * Centipede Recharged
+* `Dad's Coming <https://store.steampowered.com/app/1527350/Dads_Coming/>`_ (ludebla en Esperanto!)
 * Hexxagon
 * Mayan Death Robots
 * Missile Command Recharged
