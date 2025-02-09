@@ -1,4 +1,4 @@
-.. title: Schedule 2024
+.. title: Schedule 2025
 .. slug: schedule
 .. date: 2022-09-12 15:22:58+02:00
 .. tags:
