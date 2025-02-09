@@ -61,12 +61,12 @@ Paypal
 
 **Email:** chuck (@) chuck (dot) at
 
-.. class:: tip register
-
 Eblas ĉeesti ambaŭ Ludojn!
 --------------------------
 
-Iuj homoj jam pripensas ĉeesti kaj la esperantistan kaj la anglan Ludon! Por pli da detaloj pri tio, vidu sube en la paĝo de `Programo <schedule>`_. Ne estas oficiala aliĝilo por tio, simple `kontaktu la teamon <contact-form>`_ se tio interesas vin.
+Iuj homoj jam pripensas ĉeesti kaj la esperantistan kaj la anglan Ludon! Por pli da detaloj pri tio, vidu sube en la paĝo de `Programo <link://slug/schedule>`_. Ne estas oficiala aliĝilo por tio, simple `kontaktu la teamon <link://slug/contact-form>`_ se tio interesas vin.
+
+.. class:: tip register
 
 Aliĝu nun!
 ----------
