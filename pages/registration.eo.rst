@@ -41,7 +41,6 @@ Ligiloj baldaŭ venos!
 		`Sunday Day Pass <link://slug/sunday_registration>`_
 		remove the .. and this line to enable the link
 
-
 Antaŭpagoj (nur por tranoktantoj)
 =================================
 
@@ -63,6 +62,11 @@ Paypal
 **Email:** chuck (@) chuck (dot) at
 
 .. class:: tip register
+
+Eblas ĉeesti ambaŭ Ludojn!
+--------------------------
+
+Iuj homoj jam pripensas ĉeesti kaj la esperantistan kaj la anglan Ludon! Por pli da detaloj pri tio, vidu sube en la paĝo de `Programo <schedule>`_. Ne estas oficiala aliĝilo por tio, simple `kontaktu la teamon <contact-form>`_ se tio interesas vin.
 
 Aliĝu nun!
 ----------
