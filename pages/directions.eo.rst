@@ -14,7 +14,7 @@ Esperanto-Stacio
 
 .. class:: .clearfix
 
-La evento okaziĝas ĉe la `Esperanto-Stacio <https://www.esperantostacio.com/en>`_, internacia renkontejo en la fervoja stacio de Halbe, en naturprotektita areo sude de Berlino.
+La evento okaziĝas ĉe la `Esperanto-Stacio <https://www.esperantostacio.com/eo>`_, internacia renkontejo en la fervoja stacio de Halbe, en naturprotektita areo sude de Berlino.
 
 
 Kiel atingi la Esperanto-Stacion?
