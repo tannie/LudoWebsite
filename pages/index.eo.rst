@@ -12,7 +12,7 @@ Notu la datojn!
 
 The venonta Ludo okazos:
 
-5-a ĝis 8-a de september 2025 (en Esperanto)
+5-a ĝis 8-a de september 2025 **(en Esperanto)**
 
 12-a ĝis 15-a de september 2025 (`en la angla </>`_)
 
