@@ -30,18 +30,7 @@ The local supermarket is right across the track and we have a fully functional k
 Day Visitors
 ============
 
-We will start selling day tickets online closer to the event. If necessary, you can also pay in cash at the door.
-
-Links coming soon!
-
-..
-		`Saturday Day Pass <link://slug/saturday_registration>`_
-		remove the .. and this line to enable the link
-
-..
-		`Sunday Day Pass <link://slug/sunday_registration>`_
-		remove the .. and this line to enable the link
-
+For visitors not staying overnight, please buy day tickets to our event `here on EventIM <https://www.eventim-light.com/de/a/66c4604c5f95d22f84e0de55/s/67e040516c100a12f992c6e5>`_. If necessary, you can also pay in cash at the door.
 
 Pre-payment (overnight guests only)
 ===================================

@@ -29,17 +29,7 @@
 Tagvizitantoj
 =============
 
-Ni ekvendos tagbiletojn pli proksime al la evento. Se necesas, ankaŭ eblas pagi per kontanta mono ĉe la pordo.
-
-Ligiloj baldaŭ venos!
-
-..
-		`Saturday Day Pass <link://slug/saturday_registration>`_
-		remove the .. and this line to enable the link
-
-..
-		`Sunday Day Pass <link://slug/sunday_registration>`_
-		remove the .. and this line to enable the link
+Por vizitantoj, kiuj ne tranoktos, bonvolu aĉeti tagbiletojn por nia evento `ĉi tie per EventIM <https://www.eventim-light.com/de/a/66c4604c5f95d22f84e0de55/s/67e040516c100a12f992c6e5>`_. Se necesas, eblas ankaŭ pagi per kontanta mono ĉe la pordo.
 
 Antaŭpagoj (nur por tranoktantoj)
 =================================
