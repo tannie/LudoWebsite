@@ -46,7 +46,7 @@ Stay tuned for info about Ludo 2025!
 What is Ludo?
 =============
 
-Ludo is an annual event held at the Esperanto-Stacio in Halbe (just outside Berlin) from 2021-2024. This is an extended videogame weekend where we play everything from modern to retro game systems. For example, we play VR together on the Meta Quest 3 and local multiplayer on the Xbox Series S. Enjoy a 2-player modern dance pad experience similar to Dance Dance Revolution. As for retro, we have systems from Pong to Nintendo GameCube. We also have a 4K projector on a 100" screen for an epic local multiplayer gaming experience that's hard to get anywhere else!
+Ludo is an annual event held at the Esperanto-Stacio in Halbe (just outside Berlin) since 2021. This is an extended videogame weekend where we play everything from modern to retro game systems. For example, we play VR together on the Meta Quest 3 and local multiplayer on the Xbox Series S. Enjoy a 2-player modern dance pad experience similar to Dance Dance Revolution. As for retro, we have systems from Pong to Nintendo GameCube. We also have a 4K projector on a 100" screen for an epic local multiplayer gaming experience that's hard to get anywhere else!
 
 Previous Ludo Events
 ====================
