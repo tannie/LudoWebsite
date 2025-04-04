@@ -91,7 +91,7 @@ To get a feel of what kinds of games we tend to play, here's all the games we pl
 
 .. youtube:: USxSV4Th1vc
 	:align: center
-	:start_at: 1164
+	:start_at: 1163
 
 2024 Special Guest: Russ from Retro Game Corps
 ----------------------------------------------
