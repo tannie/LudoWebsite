@@ -89,7 +89,7 @@ To get a feel of what kinds of games we tend to play, here's all the games we pl
 * Walkabout Minigolf (VR)
 * Worms W.M.D.
 
-.. youtube:: USxSV4Th1vc&t=1164
+.. youtube:: USxSV4Th1vc
 	:align: center
 
 2024 Special Guest: Russ from Retro Game Corps
