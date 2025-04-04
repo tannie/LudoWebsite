@@ -89,6 +89,9 @@ To get a feel of what kinds of games we tend to play, here's all the games we pl
 * Walkabout Minigolf (VR)
 * Worms W.M.D.
 
+.. youtube:: USxSV4Th1vc&t=1164
+	:align: center
+
 2024 Special Guest: Russ from Retro Game Corps
 ----------------------------------------------
 
@@ -114,5 +117,4 @@ Since he'll be flying in all the way from Hawaii, Ludo presents a **unique oppor
 As the pioneer who introduced EmulationStation and RetroArch to these handhelds through his explanation videos, MashTec’s influence quickly spread. Manufacturers like Anbernic and Powkiddy adopted these tools for their upcoming devices. But for Manuel, it’s not just about software—it’s about pushing boundaries, reviewing devices, and sharing improvements with the community.
 
 
-.. youtube:: LCl6HQtssRs
-	:align: center
+
