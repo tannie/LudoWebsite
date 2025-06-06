@@ -1,3 +1,9 @@
+Switch 2
+========
+
+* Super Mario Party Jamboree
+* Mario Kart World
+
 PC
 ==
 
