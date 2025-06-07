@@ -7,14 +7,16 @@
 
 .. class:: float-left
 
-Notu la datojn!
-===============
+Aliĝu nun!
+==========
 
-The venonta Ludo okazos:
+La venonta Ludo okazos:
 
 5-a ĝis 8-a de september 2025 **(en Esperanto)**
 
 12-a ĝis 15-a de september 2025 (`en la angla </>`_)
+
+**La unua aliĝperiodo finiĝas la 15-an de junio, do aliĝu tuj por ĝui rabaton!**
 
 Se vi vere ludemas, vi eĉ povas plani vian vojaĝon por ĉeesti Ludon en ambaŭ lingvoj, kun tranoktado en la Esperanto-Stacio inter la semajnfinoj.
 
