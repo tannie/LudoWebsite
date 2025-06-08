@@ -87,3 +87,6 @@ Por ricevi impreson pri la tipoj de ludoj, kiujn ni emas ludi, jen ĉiuj ludoj, 
 * TowerFall Ascension
 * Walkabout Minigolf (VR)
 * Worms W.M.D.
+
+.. youtube:: 5AtbdUnikjk
+	:align: center
