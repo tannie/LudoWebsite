@@ -7,12 +7,22 @@ Switch 2
 PC
 ==
 
+20 Player
+---------
+
+* Drink More Glurp
+
+9 Player
+--------
+
+* Jackbox Survey Scramble
+
 8 Player
 --------
 
 * Duck Game
 * Fibbage XL
-* Jackbox Party Pack 1, 3, 5, 7, 8, 9, 10
+* Jackbox Party Pack 1-10
 * Party Golf
 
 6 Player
@@ -26,7 +36,9 @@ PC
 * Antonball Deluxe
 * Avicii Invector
 * Dokapon Kingdom Connect
+* Duck Game
 * Hotshot Racing
+* It Came From Space and Ate Our Brains
 * It's Quiz Time
 * Ninza
 * No Time to Relax
@@ -35,6 +47,7 @@ PC
 * Shovel Knight Showdown
 * Sonic All-Star Racing Transformed Collection
 * Super Blood Hockey
+* Super Crazy Rhythm Castle
 * TowerFall Ascension
 * Worms Crazy Golf
 * Worms W.M.D.
@@ -43,19 +56,22 @@ PC
 3 Player
 --------
 
-* You Don't Know Jack Vol 1 XL
-* You Don't Know Jack Vol 4 The Ride
+* You Don't Know Jack [Many Volumes]
 
 2 Player
 --------
 
 * Atari 50
 * Blood Bowl 2
+* Breakout Beyond
 * Centipede Recharged
+* Chess Ultra
 * `Dad's Coming <https://store.steampowered.com/app/1527350/Dads_Coming/>`_
+* Enter the Gungeon
 * Hexxagon
 * Mayan Death Robots
 * Missile Command Recharged
+* Monopoly (2024)
 * Nidhogg
 * Rounds
 
