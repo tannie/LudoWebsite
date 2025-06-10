@@ -31,10 +31,18 @@ Tagvizitantoj
 
 Por vizitantoj, kiuj ne tranoktas, tagbileto donas al vi aliron al ĉiuj niaj ludoj kaj ankaŭ senlimajn varmajn trinkaĵojn kaj manĝetojn kontraŭ **nur €30!** Bonvolu aĉeti tagbiletojn por nia evento `ĉi tie per EventIM <https://www.eventim-light.com/de/a/66c4604c5f95d22f84e0de55/s/67e040516c100a12f992c6e5>`_. Se necesas, eblas ankaŭ pagi per kontanta mono ĉe la pordo.
 
-Antaŭpagoj (nur por tranoktantoj)
-=================================
+Tranoktaj vizitantoj
+====================
 
-Pro multaj lastminutaj nuligoj dum antaŭaj eventoj, ni nun postulas antaŭpagon por rezervi vian liton dum Ludo. Bonvolu pagi almenaŭ €50 (nerepagebla) aŭ pagi plene. Se vi pagas plene, vi daŭre povas ricevi plenan repagon minus la €50 antaŭpago se vi ne povas ĉeesti Ludon. Bonvolu pagi per unu el la jenaj metodoj post kiam vi aliĝas:
+Pro multaj lastminutaj nuligoj dum antaŭaj eventoj, ni nun postulas antaŭpagon por rezervi vian liton dum Ludo. **Bonvolu pagi almenaŭ €50 (nerepagebla)** aŭ pagi plene. Se vi pagas plene, vi daŭre povas ricevi plenan repagon minus la €50 antaŭpago se vi ne povas ĉeesti Ludon. 
+
+Loĝado estas disponigita laŭ la ordo de aliĝo, do frua aliĝo plibonigas viajn ŝancojn ricevi unu el la preferataj dormlokoj! Dum ni faras ĉion eblan por trovi bonan loĝadon por ĉiuj, iuj ĉambroj povas esti rezervitaj por bezonoj de alirebleco.
+
+.. class:: tip register
+
+Tranoktaj gastoj povas nun aliĝi ĉi tie: `Aliĝilo por Tranoktantoj <https://forms.gle/La1v5ximeEDsdWGn7>`_
+
+Bonvolu pagi per unu el la jenaj metodoj post kiam vi aliĝas:
 
 Germana Bankpago (Preferita)
 ----------------------------
@@ -55,12 +63,3 @@ Eblas ĉeesti ambaŭ Ludojn!
 --------------------------
 
 Iuj homoj jam pripensas ĉeesti kaj la esperantistan kaj la anglan Ludon! Por pli da detaloj pri tio, vidu sube en la paĝo de `Programo <link://slug/schedule>`_. Ne estas oficiala aliĝilo por tio, simple `kontaktu la teamon <link://slug/contact-form>`_ se tio interesas vin.
-
-.. class:: tip register
-
-Aliĝu nun!
-----------
-
-Tranoktaj gastoj povas nun aliĝi ĉi tie: `Aliĝilo por Tranoktantoj <https://forms.gle/La1v5ximeEDsdWGn7>`_
-
-Aliĝilo por tagpartoprenantoj venos baldaŭ!
