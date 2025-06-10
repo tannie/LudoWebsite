@@ -38,9 +38,12 @@ Pro multaj lastminutaj nuligoj dum antaŭaj eventoj, ni nun postulas antaŭpagon
 
 Loĝado estas disponigita laŭ la ordo de aliĝo, do frua aliĝo plibonigas viajn ŝancojn ricevi unu el la preferataj dormlokoj! Dum ni faras ĉion eblan por trovi bonan loĝadon por ĉiuj, iuj ĉambroj povas esti rezervitaj por bezonoj de alirebleco.
 
-.. class:: tip register
+.. tip:: **Aliĝu nun!**
 
-Tranoktaj gastoj povas nun aliĝi ĉi tie: `Aliĝilo por Tranoktantoj <https://forms.gle/La1v5ximeEDsdWGn7>`_
+	Tranoktaj gastoj povas nun aliĝi ĉi tie: `Aliĝilo por Tranoktantoj <https://forms.gle/La1v5ximeEDsdWGn7>`_
+
+Pagmanieroj
+===========
 
 Bonvolu pagi per unu el la jenaj metodoj post kiam vi aliĝas:
 
