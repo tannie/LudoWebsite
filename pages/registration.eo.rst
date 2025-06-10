@@ -50,7 +50,7 @@ Pagmanieroj
 Bonvolu pagi per unu el la jenaj metodoj post kiam vi aliĝas:
 
 Germana Bankpago (Preferita)
-----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [Rimarku la novan IBAN ĉi-jare!]
 
@@ -60,7 +60,7 @@ Germana Bankpago (Preferita)
 |
 
 Paypal
-------
+~~~~~~
 
 **Email:** chuck (@) chuck (dot) at
 
