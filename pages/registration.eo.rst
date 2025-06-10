@@ -40,10 +40,12 @@ Loĝado estas disponigita laŭ la ordo de aliĝo, do frua aliĝo plibonigas viaj
 
 .. tip:: **Aliĝu nun!**
 
-	Tranoktaj gastoj povas nun aliĝi ĉi tie: `Aliĝilo por Tranoktantoj <https://forms.gle/La1v5ximeEDsdWGn7>`_
+	Tranoktaj gastoj povas nun aliĝi ĉi tie: 
+	
+	`Aliĝilo por Tranoktantoj <https://forms.gle/La1v5ximeEDsdWGn7>`_
 
 Pagmanieroj
-===========
+-----------
 
 Bonvolu pagi per unu el la jenaj metodoj post kiam vi aliĝas:
 
