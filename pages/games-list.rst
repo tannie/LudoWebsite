@@ -228,6 +228,11 @@ Nintendo Switch (2017)
 * Unrailed!
 * Urban Flow
 
+3 Player
+--------
+
+* Groove Coaster Wai Wai Party!
+
 2 Player
 --------
 
