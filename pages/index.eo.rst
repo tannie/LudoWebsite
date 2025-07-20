@@ -16,8 +16,6 @@ La venonta Ludo okazos:
 
 12-a ĝis 15-a de september 2025 (`en la angla </>`_)
 
-**La unua aliĝperiodo finiĝas la 15-an de junio, do aliĝu tuj por ĝui rabaton!**
-
 Se vi vere ludemas, vi eĉ povas plani vian vojaĝon por ĉeesti Ludon en ambaŭ lingvoj, kun tranoktado en la Esperanto-Stacio inter la semajnfinoj.
 
 Se vi vere esperantemas, sciu, ke la bonega tabulluda evento `ABELO <https://abeloabeloabelo.wordpress.com>`_ okazos la 29-an de aŭgusto ĝis la 1-a de septembro 2025, do eblas partopreni ABELO-n kaj Ludon!

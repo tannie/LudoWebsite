@@ -16,8 +16,6 @@ The next Ludo will take place:
 
 5-8 September 2025 (`in Esperanto </eo>`_)
 
-**The early bird price ends on 15 June, so sign up now to take advantage of the discount!**
-
 .. class:: float-right tip
 
 Stay tuned for info about Ludo 2025!
