@@ -57,7 +57,7 @@ German Bank Transfer (Preferred)
 
 | **Name:** Charles Sterling Smith
 | **IBAN:** DE75 1001 1001 2314 1783 89
-| **BIC:** NTSBDE1XXX
+| **BIC:** NTSBDEB1XXX
 |
 
 Paypal
