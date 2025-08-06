@@ -17,9 +17,9 @@ Kiam estos Ludo?
 
 La venonta Ludo okazos:
 
-5-a ĝis 8-a de september 2025 **(en Esperanto)** &mdash; `Aliĝu nun!<registration>`_
+5-a ĝis 8-a de september 2025 **(en Esperanto)** - `Aliĝu nun! <registration>`_
 
-12-a ĝis 15-a de september 2025 (`en la angla </>`_) &mdash; `Register now!</en/registration>`_
+12-a ĝis 15-a de september 2025 (`en la angla </>`_) - `Register now! </en/registration>`_
 
 Se vi vere ludemas, vi eĉ povas plani vian vojaĝon por ĉeesti Ludon en ambaŭ lingvoj, kun tranoktado en la Esperanto-Stacio inter la semajnfinoj.
 
