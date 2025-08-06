@@ -5,16 +5,21 @@
 .. link:
 .. description:
 
+Kio estas Ludo?
+===============
+
+Ludo estas ĉiujara evento, kiu okazas en la Esperanto-Stacio en Halbe (iomete ekster Berlino) ekde 2021 (sed en Esperanto nur en 2021). Ĝi estas videoluda semajnfinego, kie ni ludas ĉion, de modernaj ĝis retro-aj ludkonzoloj. Ekzemple, ni ludas VR-n kune kun la Meta Quest 3 kaj multope per la Xbox Series S. Ĝuu 2-opan modernan dancmaton, simile al Dance Dance Revolution. Rilate al retro, ni havas konzolojn de Pong ĝis Nintendo GameCube. Ni ankaŭ havas 4K-projekciilon sur 100-cola ekrano por epopea loka multopa sperto, kiun oni malfacile povas sperti aliloke... speciale en Esperanto!
+
 .. class:: float-left
 
-Aliĝu nun!
+Kiam estos Ludo?
 ==========
 
 La venonta Ludo okazos:
 
-5-a ĝis 8-a de september 2025 **(en Esperanto)**
+5-a ĝis 8-a de september 2025 **(en Esperanto)** &mdash; `Aliĝu nun!<registration>`_
 
-12-a ĝis 15-a de september 2025 (`en la angla </>`_)
+12-a ĝis 15-a de september 2025 (`en la angla </>`_) &mdash; `Register now!</en/registration>`_
 
 Se vi vere ludemas, vi eĉ povas plani vian vojaĝon por ĉeesti Ludon en ambaŭ lingvoj, kun tranoktado en la Esperanto-Stacio inter la semajnfinoj.
 
@@ -45,11 +50,6 @@ Restu ĝisdata pri Ludo 2025!
 
 .. class:: clear
 
-
-Kio estas Ludo?
-===============
-
-Ludo estas ĉiujara evento, kiu okazas en la Esperanto-Stacio en Halbe (iomete ekster Berlino) ekde 2021 (sed en Esperanto nur en 2021). Ĝi estas videoluda semajnfinego, kie ni ludas ĉion, de modernaj ĝis retro-aj ludkonzoloj. Ekzemple, ni ludas VR-n kune kun la Meta Quest 3 kaj multope per la Xbox Series S. Ĝuu 2-opan modernan dancmaton, simile al Dance Dance Revolution. Rilate al retro, ni havas konzolojn de Pong ĝis Nintendo GameCube. Ni ankaŭ havas 4K-projekciilon sur 100-cola ekrano por epopea loka multopa sperto, kiun oni malfacile povas sperti aliloke... speciale en Esperanto!
 
 Luditaj dum Ludo 2024
 =====================
