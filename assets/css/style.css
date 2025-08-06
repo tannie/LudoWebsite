@@ -41,7 +41,7 @@ body {
 }
 
 .form-checkbox {
-	
+
 	display: none;
 }
 
@@ -125,7 +125,7 @@ nav#contents.contents {
     width: 320px;
     height: 180px;
   }
-  
+
   .float-left {
 	width: 95%;
 	float: none;
@@ -164,7 +164,7 @@ nav#contents.contents {
     height: 360px;
 
   }
-  
+
   .float-left {
 	width: 55%;
 	float: left;
@@ -1571,5 +1571,7 @@ main#content article.post-text.storypage div.e-content.entry-content table tbody
   padding-right: 10px;
   width: 120px;
 }
-
+#day-visitors a.external {
+  font-weight: bold;
+}
 /*# sourceMappingURL=style.css.map */
