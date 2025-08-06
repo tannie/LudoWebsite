@@ -29,7 +29,7 @@
 Tagvizitantoj
 =============
 
-Por vizitantoj, kiuj ne tranoktas, tagbileto donas al vi aliron al ĉiuj niaj ludoj kaj ankaŭ senlimajn varmajn trinkaĵojn kaj manĝetojn kontraŭ **nur €30!** Bonvolu aĉeti tagbiletojn por nia evento `**ĉi tie per EventIM <https://www.eventim-light.com/de/a/66c4604c5f95d22f84e0de55/s/67e040516c100a12f992c6e5>**`_
+Por vizitantoj, kiuj ne tranoktas, tagbileto donas al vi aliron al ĉiuj niaj ludoj kaj ankaŭ senlimajn varmajn trinkaĵojn kaj manĝetojn kontraŭ **nur €30!** Bonvolu aĉeti tagbiletojn por nia evento `ĉi tie per EventIM <https://www.eventim-light.com/de/a/66c4604c5f95d22f84e0de55/s/67e040516c100a12f992c6e5>`_
 
 Se necesas, eblas ankaŭ pagi per kontanta mono ĉe la pordo.
 
