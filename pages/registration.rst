@@ -30,7 +30,7 @@ The local supermarket is right across the track and we have a fully functional k
 Day Visitors
 ============
 
-For visitors not staying overnight, a day pass grants you access to all our games and also unlimited hot drinks and snacks for **only €30!** Please buy day tickets to our event **`here on EventIM <https://www.eventim-light.com/de/a/66c4604c5f95d22f84e0de55/s/67e040516c100a12f992c6e5>`_**.
+For visitors not staying overnight, a day pass grants you access to all our games and also unlimited hot drinks and snacks for **only €30!** Please buy day tickets to our event `**here on EventIM** <https://www.eventim-light.com/de/a/66c4604c5f95d22f84e0de55/s/67e040516c100a12f992c6e5>`_.
 
 If necessary, you can also pay in cash at the door.
 
