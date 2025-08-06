@@ -15,8 +15,6 @@ Ludo is an annual event held at the Esperanto-Stacio in Halbe (just outside Berl
 When is Ludo?
 =============
 
-The next Ludo will take place:
-
 12-15 September 2025 **(in English)** - `Register now! <registration>`_
 
 5-8 September 2025 (`in Esperanto </eo>`_) - `Aliĝu nun! </eo/registration>`_

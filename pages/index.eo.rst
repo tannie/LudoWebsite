@@ -15,8 +15,6 @@ Ludo estas ĉiujara evento, kiu okazas en la Esperanto-Stacio en Halbe (iomete e
 Kiam estos Ludo?
 ================
 
-La venonta Ludo okazos:
-
 5-a ĝis 8-a de september 2025 **(en Esperanto)** - `Aliĝu nun! <registration>`_
 
 12-a ĝis 15-a de september 2025 (`en la angla </>`_) - `Register now! </registration>`_
