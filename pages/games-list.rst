@@ -191,7 +191,10 @@ Nintendo Switch (2017)
 
 * Brakes Are For Losers
 * Clusterpuck 99
+* Heads Up! Phones Down Edition
 * Killer Queen Black
+* Nintendo World Championships: NES Edition
+* Party Golf
 * Runbow
 * Shipped
 * Virtua Racing (Sega Ages)
@@ -210,19 +213,25 @@ Nintendo Switch (2017)
 * Aloof
 * Badland
 * Beat me!
+* Bestanden: Dein Weg zum Führerschein
+* Bit.Trip Beat
 * Cake Bash
 * Catan
 * Cruis'n Blast
 * Death Squared
-* Heads Up! Phones Down Edition
+* Home Sheep Home
 * Horizon Chase Turbo
 * Hotshot Racing
 * It came from space and ate our brains
 * Moving Out
+* Namco Museum (Pac-Man Vs)
 * Overcooked
-* Overcooked 2
+* Overcooked 2PID
 * Pinball FX 3
 * Puyo Puyo Tetris 2
+* Richman 4 Fun
+* Super Rocket Shootout
+* This Means Warp
 * Train Traffic Manager
 * Tricky Towers
 * Unrailed!
@@ -237,13 +246,19 @@ Nintendo Switch (2017)
 --------
 
 * Big Tournament Golf
-* Child of light
-* Death's hangover
+* Centipede: Recharged
+* Child of Light
+* Crypt of the Necrodancer
+* Death's Hangover
 * Don't Starve Together
 * Dyadic
 * The Escapists 2
 * Figment 2: Creed Valley
-* HOT WHEELS UNLEASHED
+* Hexxagon
+* Go Minimal
+* Hot Wheels Unleashed
+* Old Man's Journey
+* PID
 * Portal 2
 * Reverse Crawl
 * Spectrum
