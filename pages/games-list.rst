@@ -35,8 +35,10 @@ PC
 
 * Antonball Deluxe
 * Avicii Invector
+* Broforce
 * Dokapon Kingdom Connect
 * Duck Game
+* Hamster Playground
 * Hotshot Racing
 * It Came From Space and Ate Our Brains
 * It's Quiz Time
@@ -74,6 +76,8 @@ PC
 * Monopoly (2024)
 * Nidhogg
 * Rounds
+* Unravel Two
+* Xenon
 
 *[GPU] = Game Pass Ultimate (could disappear from the library anytime)*
 
@@ -126,7 +130,6 @@ Xbox Series S (2020)
 * Death Squared
 * Dirt 5 [GPU]
 * Doritos Crash Course
-* FIFA 23 [GPU]
 * Fuzion Frenzy [GPU]
 * Gang Beasts [GPU]
 * Goat Simulator 3 [GPU]
@@ -137,16 +140,13 @@ Xbox Series S (2020)
 * Inertial Drift
 * Moving Out
 * NHL 94 Rewind [GPU]
-* Out of Space: Couch Edition [GPU]
 * Overcooked 2 [GPU]
-* Party Animals [GPU]
 * PGA Tour 2K23
 * Pinball FX 3
 * Puyo Puyo Tetris 2
 * Rocket League
 * Slipstream
 * SpeedRunners
-* SpiderHeck [GPU]
 * Teenage Mutant Ninja Turtles: Cowabunga Collection
 * Teenage Mutant Ninja Turtles: Shredder's Revenge [GPU]
 * Trials Fusion
@@ -162,13 +162,12 @@ Xbox Series S (2020)
 * Centipede Recharged
 * Chess Ultra
 * Contra Anniversary Collection
-* Escape Academy [GPU]
 * Final Fight: Double Impact
 * Frogger
 * Gravitar Recharged
 * Human Fall Flat
 * It Takes Two [GPU]
-* Jetpac Reloaded [GPU]
+* Jetpac Refuelled [GPU]
 * Joust
 * Lumines Remastered
 * Ms Pac-Man
