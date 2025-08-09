@@ -20,8 +20,10 @@ PC
 8 Player
 --------
 
+* Brakes Are For Losers
 * Duck Game
 * Fibbage XL
+* Golf It
 * Jackbox Party Pack 1-10
 * Party Golf
 
@@ -38,6 +40,7 @@ PC
 * Broforce
 * Dokapon Kingdom Connect
 * Duck Game
+* Formula Retro Racer
 * Hamster Playground
 * Hotshot Racing
 * It Came From Space and Ate Our Brains
@@ -45,6 +48,7 @@ PC
 * Ninza
 * No Time to Relax
 * Pinball FX 3
+* Rhythm Castle
 * Richman 11
 * Shovel Knight Showdown
 * Sonic All-Star Racing Transformed Collection
@@ -68,6 +72,7 @@ PC
 * Breakout Beyond
 * Centipede Recharged
 * Chess Ultra
+* Crypt of the Necrodancer
 * `Dad's Coming <https://store.steampowered.com/app/1527350/Dads_Coming/>`_
 * Enter the Gungeon
 * Hexxagon
