@@ -15,7 +15,7 @@ PC
 9 Player
 --------
 
-* Jackbox Survey Scramble
+* **Jackbox Survey Scramble**
 
 8 Player
 --------
@@ -24,18 +24,13 @@ PC
 * Duck Game
 * Fibbage XL
 * Golf It
-* Jackbox Party Pack 1-10
+* **Jackbox Party Pack 1-10**
 * Party Golf
-
-6 Player
---------
-
-* Teenage Mutant Ninja Turtles: Shredder’s Revenge [GPU]
 
 4 Player
 --------
 
-* Antonball Deluxe
+* **Antonball Deluxe**
 * Avicii Invector
 * Broforce
 * Dokapon Kingdom Connect
@@ -51,8 +46,8 @@ PC
 * Rhythm Castle
 * Richman 11
 * Shovel Knight Showdown
-* Sonic All-Star Racing Transformed Collection
-* Super Blood Hockey
+* **Sonic All-Star Racing Transformed Collection**
+* **Super Blood Hockey**
 * Super Crazy Rhythm Castle
 * TowerFall Ascension
 * Worms Crazy Golf
@@ -84,8 +79,6 @@ PC
 * Unravel Two
 * Xenon
 
-*[GPU] = Game Pass Ultimate (could disappear from the library anytime)*
-
 Meta Quest 3 (2023)
 ===================
 
@@ -109,54 +102,53 @@ Xbox Series S (2020)
 12 Player
 ---------
 
-* Golf With Your Friends [GPU]
+* **Golf With Your Friends** [GPU]
 
 8 Player
 --------
 
 * As Dusk Falls [GPU]
-* It's Quiz Time
+* **It's Quiz Time**
 * Jackbox Party Pack 5
 * Ultimate Racing 2D
 
 6 Player
 --------
 
-* Teenage Mutant Ninja Turtles: Shredder’s Revenge [GPU]
-* Worms W.M.D
+* **Teenage Mutant Ninja Turtles: Shredder’s Revenge** [GPU]
+* **Worms W.M.D**
 
 4 Player
 --------
 
 * Arkanoid Eternal Battle
-* Avicii Invector: Encore Edition
-* Cake Bash
+* **Avicii Invector: Encore Edition**
+* **Cake Bash**
 * Catan
 * Death Squared
-* Dirt 5 [GPU]
+* **Dirt 5** [GPU]
 * Doritos Crash Course
 * Fuzion Frenzy [GPU]
 * Gang Beasts [GPU]
 * Goat Simulator 3 [GPU]
 * GoldenEye 007 [GPU]
 * Guts 'N Goals
-* Horizon Chase Turbo
+* **Horizon Chase Turbo**
 * Hotshot Racing
 * Inertial Drift
-* Moving Out
+* **Moving Out**
 * NHL 94 Rewind [GPU]
 * Overcooked 2 [GPU]
 * PGA Tour 2K23
 * Pinball FX 3
-* Puyo Puyo Tetris 2
+* **Puyo Puyo Tetris 2**
 * Rocket League
 * Slipstream
 * SpeedRunners
 * Teenage Mutant Ninja Turtles: Cowabunga Collection
-* Teenage Mutant Ninja Turtles: Shredder's Revenge [GPU]
 * Trials Fusion
 * Trials Rising
-* Tricky Towers
+* **Tricky Towers**
 * Trivial Pursuit Live 2
 
 2 Player
@@ -196,20 +188,20 @@ Nintendo Switch (2017)
 * Brakes Are For Losers
 * Clusterpuck 99
 * Heads Up! Phones Down Edition
-* Killer Queen Black
-* Nintendo World Championships: NES Edition
+* **Killer Queen Black**
+* **Nintendo World Championships: NES Edition**
 * Party Golf
 * Runbow
-* Shipped
-* Virtua Racing (Sega Ages)
+* **Shipped**
+* **Virtua Racing (Sega Ages)**
 
 6 Player
 --------
 
 * Monopoly
 * Monopoly Madness
-* TowerFall
-* Worms W.M.D
+* **TowerFall**
+* **Worms W.M.D**
 
 4 Player
 --------
@@ -221,14 +213,14 @@ Nintendo Switch (2017)
 * Bit.Trip Beat
 * Cake Bash
 * Catan
-* Cruis'n Blast
+* **Cruis'n Blast**
 * Death Squared
 * Home Sheep Home
 * Horizon Chase Turbo
 * Hotshot Racing
 * It came from space and ate our brains
 * Moving Out
-* Namco Museum (Pac-Man Vs)
+* **Namco Museum (Pac-Man Vs)**
 * Overcooked
 * Overcooked 2PID
 * Pinball FX 3
@@ -244,7 +236,7 @@ Nintendo Switch (2017)
 3 Player
 --------
 
-* Groove Coaster Wai Wai Party!
+* **Groove Coaster Wai Wai Party!**
 
 2 Player
 --------
