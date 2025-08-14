@@ -121,6 +121,7 @@ Xbox Series S (2020)
 4 Player
 --------
 
+* **All You Need Is Help** (GPU)
 * Arkanoid Eternal Battle
 * **Avicii Invector: Encore Edition**
 * **Cake Bash**
