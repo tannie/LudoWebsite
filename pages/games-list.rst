@@ -121,11 +121,12 @@ Xbox Series S (2020)
 4 Player
 --------
 
-* **All You Need Is Help** (GPU)
+* **All You Need Is Help** [GPU]
 * Arkanoid Eternal Battle
 * **Avicii Invector: Encore Edition**
 * **Cake Bash**
 * Catan
+* Crash Team Racing Nitro-Fueled (GPU)
 * Death Squared
 * **Dirt 5** [GPU]
 * Doritos Crash Course
@@ -138,6 +139,7 @@ Xbox Series S (2020)
 * Hotshot Racing
 * Inertial Drift
 * **Moving Out**
+* **Moving Out 2** [GPU]
 * NHL 94 Rewind [GPU]
 * Overcooked 2 [GPU]
 * PGA Tour 2K23
@@ -151,6 +153,7 @@ Xbox Series S (2020)
 * Trials Rising
 * **Tricky Towers**
 * Trivial Pursuit Live 2
+* **Ultimate Chicken Horse** [GPU]
 
 2 Player
 --------
@@ -160,6 +163,7 @@ Xbox Series S (2020)
 * Centipede Recharged
 * Chess Ultra
 * Contra Anniversary Collection
+* Enter the Gungeon
 * Final Fight: Double Impact
 * Frogger
 * Gravitar Recharged
@@ -171,6 +175,7 @@ Xbox Series S (2020)
 * Ms Pac-Man
 * Peggle 2 [GPU]
 * Portal 2
+* Spiritfarer [GPU]
 * Star Wars Racer
 
 *[GPU] = Game Pass Ultimate (could disappear from the library anytime)*
