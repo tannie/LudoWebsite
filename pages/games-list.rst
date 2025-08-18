@@ -51,7 +51,7 @@ PC
 * Super Crazy Rhythm Castle
 * TowerFall Ascension
 * Worms Crazy Golf
-* Worms W.M.D.
+* **Worms W.M.D.**
 * Zaccaria Pinball
 
 3 Player
@@ -141,7 +141,7 @@ Xbox Series S (2020)
 * **Moving Out**
 * **Moving Out 2** [GPU]
 * NHL 94 Rewind [GPU]
-* Overcooked 2 [GPU]
+* **Overcooked 2** [GPU]
 * PGA Tour 2K23
 * Pinball FX 3
 * **Puyo Puyo Tetris 2**
@@ -186,17 +186,17 @@ Nintendo Switch (2017)
 12 Player
 ---------
 
-* Golf With Your Friends
+* **Golf With Your Friends**
 
 8 Player
 --------
 
-* Brakes Are For Losers
+* **Brakes Are For Losers**
 * Clusterpuck 99
 * Heads Up! Phones Down Edition
 * **Killer Queen Black**
 * **Nintendo World Championships: NES Edition**
-* Party Golf
+* **Party Golf**
 * Runbow
 * **Shipped**
 * **Virtua Racing (Sega Ages)**
@@ -217,7 +217,7 @@ Nintendo Switch (2017)
 * Beat me!
 * Bestanden: Dein Weg zum Führerschein
 * Bit.Trip Beat
-* Cake Bash
+* **Cake Bash**
 * Catan
 * **Cruis'n Blast**
 * Death Squared
@@ -225,17 +225,17 @@ Nintendo Switch (2017)
 * Horizon Chase Turbo
 * Hotshot Racing
 * It came from space and ate our brains
-* Moving Out
+* **Moving Out**
 * **Namco Museum (Pac-Man Vs)**
-* Overcooked
-* Overcooked 2PID
+* **Overcooked**
+* **Overcooked 2**
 * Pinball FX 3
-* Puyo Puyo Tetris 2
+* **Puyo Puyo Tetris 2**
 * Richman 4 Fun
 * Super Rocket Shootout
 * This Means Warp
 * Train Traffic Manager
-* Tricky Towers
+* **Tricky Towers**
 * Unrailed!
 * Urban Flow
 
@@ -278,9 +278,9 @@ Nintendo GameCube (2001)
 4 Player
 --------
 
-* Donkey Konga (4 sets of bongos)
-* F-Zero GX
-* Mario Kart: Double Dash
+* **Donkey Konga** (4 sets of bongos)
+* **F-Zero GX**
+* **Mario Kart: Double Dash**
 * Shrek 2
 * Super Monkey Ball
 
