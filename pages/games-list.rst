@@ -222,7 +222,7 @@ Nintendo Switch (2017)
 * **Cruis'n Blast**
 * Death Squared
 * Home Sheep Home
-* Horizon Chase Turbo
+* **Horizon Chase Turbo**
 * Hotshot Racing
 * It came from space and ate our brains
 * **Moving Out**
