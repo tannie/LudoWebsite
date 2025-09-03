@@ -27,7 +27,7 @@ SABATO:
  8:00-10:00 Matenmanĝeto
 10:00       Komenco de Libera Ludado por Tagpartoprenantoj
 12:00       Grupfoto
-13:00       Tagmanĝo (Restoracio anoncota)
+13:00       Tagmanĝo (Kalimera am See, greka restoracio 10 minutojn piede for de la Stacio)
 18:00-20:00 Vespermanĝeto
 23:30       Fino de Libera Ludado por Tagpartoprenantoj
 =========== =====================
