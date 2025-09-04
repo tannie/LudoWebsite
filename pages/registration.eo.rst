@@ -20,7 +20,7 @@
 	`Aliĝilo por Tranoktantoj <https://forms.gle/La1v5ximeEDsdWGn7>`_
 
 
-**MANĜ':** De vendredo ĝis lundo ni proponos simplajn manĝojn por matenmanĝo kaj vespermanĝo por niaj tranoktaj gastoj. Temas pri manĝetoj kaj pano kun viando, fromaĝo kaj ŝmiraĵoj, por ke vi povu reveni al ludado kiel eble plej rapide! Tagmanĝo estos ĉe lokaj restoracioj (ne inkluzivita en la prezo). La loka superbazaro estas nur 4 minutojn piede for meze de la eventejoj kaj ni havas plurajn kuirejojn, kie eblas prepari proprajn manĝojn. Tio ankaŭ ebligas resti ene kaj fari niajn proprajn tagmanĝojn aŭ prepari noktomezan manĝeton por nutri nian ludadon.
+**MANĜ':** De vendredo ĝis lundo ni proponos simplajn manĝojn por matenmanĝo kaj vespermanĝo por niaj tranoktaj gastoj. Temas pri manĝetoj kaj pano kun viando, fromaĝo kaj ŝmiraĵoj, por ke vi povu reveni al ludado kiel eble plej rapide! **Tagmanĝo estos ĉe lokaj restoracioj (ne inkluzivita en la prezo).** La loka superbazaro estas nur 4 minutojn piede for meze de la eventejoj kaj ni havas plurajn kuirejojn, kie eblas prepari proprajn manĝojn. Tio ankaŭ ebligas resti ene kaj fari niajn proprajn tagmanĝojn aŭ prepari noktomezan manĝeton por nutri nian ludadon.
 
 **DORM':** Ni havas nur 10 litojn (2-4 litoj en ĉambro kun aldonita duŝo kaj banĉambro). Registriĝu kiel eble plej rapide por rezervi vian lokon! Estas gastejo-stila loĝado surloke kaj plej multaj dormĉambroj havas banĉambron/duŝon alkroĉita al la ĉambro.
 
