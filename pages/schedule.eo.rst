@@ -38,7 +38,7 @@ DIMANĈO:
 =========== =====================
  8:00-10:00 Continental Breakfast
 10:00       Komenco de Libera Ludado por Tagpartoprenantoj
-13:00       Tagmanĝo (Goldenen Stern, germana restoracio trans la strato)
+12:30       Tagmanĝo (Goldenen Stern, germana restoracio trans la strato)
 18:00-20:00 Vespermanĝeto
 23:30       Fino de Libera Ludado por Tagpartoprenantoj
 =========== =====================
